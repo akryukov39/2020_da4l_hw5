@@ -1,0 +1,41 @@
+---
+title: "hw_5"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r, message=FALSE}
+library(tidyverse)
+```
+
+## Задание 5.1.1
+
+```{r}
+```
+
+## Задание 5.1.2
+
+```{r}
+```
+
+mean rating (comedy) = ... * year
+mean rating (drama) = ...
+mean rating (thriller) = ...
+
+Укажите наибольший свободный член
+
+...
+
+## Задание 5.1.3
+
+```{r}
+library(ggeffects)
+```
+
+## Задание 5.1.4
+
+Укажите предсказания модели для комедий в 2007, 2011 и 2018
+```{r}
+```
+
