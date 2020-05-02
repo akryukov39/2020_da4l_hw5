@@ -1,0 +1,2164 @@
+id,name,min_players,max_players,play_time,min_age,published,owned,average_rating,category
+1,Die Macher,3,5,240,14,1986,5251,7.29168,Economic
+5,Acquire,3,6,90,12,1964,18682,7.21895,Economic
+15,Cosmic Encounter,2,6,90,12,1977,3991,6.59068,Bluffing
+15,Cosmic Encounter,2,6,90,12,1977,3991,6.59068,Science Fiction
+16,MarraCash,3,4,60,12,1996,1027,6.1583,Economic
+17,Button Men,2,2,5,10,1999,1123,5.82793,Fighting
+18,RoboRally,2,8,120,12,1994,22500,7.04248,Science Fiction
+19,Wacky Wacky West,2,4,45,9,1991,2402,5.97993,Bluffing
+20,Full Metal Planète,2,4,90,12,1988,794,6.22524,Science Fiction
+24,Twilight Imperium,2,6,240,12,1997,789,5.9475,Science Fiction
+26,Age of Renaissance,3,6,360,12,1996,2491,6.54171,Economic
+27,Supremacy,2,6,340,12,1984,1941,5.48991,Economic
+30,Dark Tower,1,4,90,10,1981,1276,5.99557,Fighting
+31,Dark World,2,5,90,10,1992,1427,5.36418,Fighting
+36,Federation & Empire,2,8,300,12,1986,914,5.67433,Science Fiction
+40,Borderlands,2,4,120,12,1982,507,5.74461,Bluffing
+43,Airlines,2,6,90,12,1990,447,5.79368,Economic
+47,Chinatown,3,5,60,12,1999,6924,6.97908,Economic
+57,Schoko & Co.,2,4,180,13,1987,727,5.82281,Economic
+58,Kings & Things,2,4,120,12,1986,2962,6.11767,Bluffing
+59,Giganten,3,4,90,10,1999,1669,6.2389,Economic
+71,Civilization,2,7,360,12,1980,8311,7.21355,Economic
+76,Air Baron,2,6,120,10,1996,896,5.85465,Economic
+94,Union Pacific,2,6,90,12,1999,3925,6.91159,Economic
+97,Conquest of the Empire,2,6,180,10,1984,1479,5.8191,Economic
+98,Axis & Allies,2,5,180,12,1981,11650,6.32236,Economic
+99,Fortress America,2,4,180,12,1986,3223,6.2921,Science Fiction
+103,Titan,2,6,240,12,1980,5001,6.59892,Fighting
+110,Auf Achse,2,6,60,8,1987,1869,5.93455,Economic
+112,Condottiere,2,6,45,14,1995,7296,6.5595,Bluffing
+118,Modern Art,3,5,45,10,1992,11784,7.14634,Economic
+120,Hoity Toity,2,6,45,12,1990,6181,6.3476,Bluffing
+127,Princess Ryan's Star Marines,1,6,120,10,1997,484,5.46019,Science Fiction
+132,Caesar & Cleopatra,2,2,60,10,1997,5976,6.24544,Bluffing
+139,Hoax,3,12,45,10,1981,335,5.59375,Bluffing
+141,Andromeda,3,5,60,10,1999,1636,6.00086,Science Fiction
+142,Vino,3,5,90,12,1999,824,5.90072,Economic
+146,Buy Low Sell High,2,4,45,10,1996,1152,5.80441,Economic
+147,Crude: The Oil Game,2,4,90,13,1974,1611,6.13944,Economic
+148,Die Glücksritter,3,6,60,8,1999,187,5.52927,Bluffing
+157,Eurorails,2,6,240,10,1990,2237,6.42916,Economic
+162,The Awful Green Things From Outer Space,2,2,90,12,1979,3946,6.16706,Science Fiction
+163,Balderdash,2,6,60,12,1984,6041,6.17913,Bluffing
+167,Dicke Kartoffeln,2,6,120,12,1989,310,5.58756,Economic
+168,Empire Builder,2,6,180,12,1982,3555,6.48409,Economic
+172,For Sale,3,6,20,8,1997,18143,7.11501,Economic
+175,Raj,2,5,20,8,1988,2193,6.08025,Bluffing
+219,Volle Hütte,3,5,30,12,1997,218,5.59843,Economic
+222,Space Beans,2,6,40,10,1999,2047,5.84229,Science Fiction
+228,Lunch Money,2,4,20,13,1996,3772,5.53604,Fighting
+230,Merchant of Venus,1,6,180,12,1988,2858,6.68935,Economic
+230,Merchant of Venus,1,6,180,12,1988,2858,6.68935,Science Fiction
+232,Serenissima (first edition),2,4,120,12,1996,2770,6.41542,Economic
+242,Junta,2,7,240,16,1978,6808,6.48675,Bluffing
+244,Circus Maximus,2,8,120,12,1979,2506,6.19217,Fighting
+250,Colonial Diplomacy,2,7,360,12,1994,595,5.77822,Bluffing
+267,Tycoon,2,4,90,10,1998,930,6.02044,Economic
+270,Svea Rike,2,5,120,12,1997,687,5.76013,Economic
+273,Africa 1880,3,6,120,14,1997,325,5.51689,Bluffing
+281,Ostindiska Kompaniet,2,5,0,10,1991,196,5.40929,Economic
+284,Lords of the Sierra Madre (second edition),2,8,240,14,1995,545,5.58332,Economic
+296,Medieval Merchant,2,6,90,12,1998,1422,6.17642,Economic
+305,Der Fliegende Holländer,3,6,60,12,1992,560,5.62058,Bluffing
+311,Time Agent,2,6,240,12,1992,587,5.73307,Science Fiction
+313,Big Boss,2,6,90,10,1994,253,5.91259,Economic
+322,Tonga Bonga,3,4,45,10,1998,570,5.81497,Economic
+330,Block Mania,2,2,120,14,1987,717,5.75851,Science Fiction
+332,Vernissage,3,5,60,12,1993,298,5.6336,Economic
+334,Advance to Boardwalk,2,4,60,8,1985,1428,5.43123,Economic
+343,Twins,3,6,30,8,1996,240,5.5659,Bluffing
+344,Members Only,3,5,45,10,1996,352,5.77852,Bluffing
+348,Merchants of the Middle Ages,2,4,120,10,1999,2137,6.23589,Economic
+364,Samarkand,2,5,30,9,1980,875,5.92824,Economic
+375,6 Billion,2,5,120,12,1999,284,5.47302,Science Fiction
+378,Lancashire Railways,3,6,120,12,1998,270,5.64977,Economic
+382,Heimlich & Co.,2,7,30,8,1984,3854,6.19502,Bluffing
+387,Corruption,3,7,45,10,2000,646,5.58238,Bluffing
+389,Die Mauer,3,6,30,8,1997,338,5.61569,Bluffing
+392,Brawl,2,7,15,10,1999,1857,5.94739,Fighting
+400,Shanghai,3,6,30,12,1997,221,5.47542,Bluffing
+408,Zoon,2,2,30,8,1999,708,5.48077,Bluffing
+408,Zoon,2,2,30,8,1999,708,5.48077,Fighting
+413,Die Erben von Hoax,3,8,45,12,1999,238,5.56558,Bluffing
+417,Edison & Co.,2,4,45,12,1998,607,5.24233,Science Fiction
+420,Rail Baron,3,6,240,10,1977,2145,6.06386,Economic
+421,1830: Railways & Robber Barons,2,7,360,14,1986,4939,7.29737,Economic
+422,1835,3,7,360,16,1990,1092,6.07739,Economic
+423,1856,3,6,300,14,1995,1496,6.55615,Economic
+424,1870,2,6,360,14,1992,1293,6.37653,Economic
+427,Grass,2,6,60,18,1980,1657,5.68187,Economic
+430,Asterix: Das Kartenspiel,2,5,30,8,1990,224,5.55052,Bluffing
+431,Alhambra: The Card Game,3,6,45,10,1992,1678,5.88834,Economic
+433,Shark,2,6,90,12,1987,1630,6.13399,Economic
+441,Filthy Rich,2,5,60,14,1998,943,5.86082,Economic
+461,Freibeuter,2,4,60,9,1998,366,5.62727,Economic
+463,Magic: The Gathering,2,2,20,13,1993,25358,7.29709,Fighting
+469,In Teufels Küche,2,4,60,10,1993,181,5.55833,Bluffing
+474,Cold War,4,4,180,12,1984,518,5.60368,Economic
+475,Taj Mahal,3,5,100,12,2000,6798,7.08628,Bluffing
+478,Citadels,2,8,60,10,2000,49514,7.05909,Bluffing
+484,Stratego Legends,2,8,60,8,1999,1533,5.58305,Bluffing
+492,Aladdin's Dragons,3,5,90,10,2000,3483,6.57328,Bluffing
+504,Die Verbotene Stadt,2,4,60,12,1992,280,5.57168,Bluffing
+507,Cartel,2,4,90,10,1973,242,5.69447,Economic
+511,Silverton,1,6,180,12,1991,1610,6.27732,Economic
+531,Merchants of Amsterdam,3,5,60,10,2000,2105,6.23482,Economic
+538,Manager,3,6,60,10,1991,179,5.60101,Economic
+562,Silberzwerg,2,4,60,10,2000,564,5.7579,Economic
+577,Parts Unknown,4,10,90,10,1999,579,5.58004,Economic
+595,Escape from Elba,3,6,60,10,1999,458,5.48148,Fighting
+605,Banana Republic,2,5,30,10,1993,221,5.47425,Bluffing
+623,Swashbuckler,2,6,90,12,1980,462,5.75433,Fighting
+632,Cloud 9,3,6,30,8,1999,2043,6.15632,Bluffing
+638,Hera and Zeus,2,2,30,12,2000,4565,6.26263,Bluffing
+649,Thieves of Bagdad,3,6,90,10,1999,254,5.54469,Bluffing
+657,Münchhausen,3,8,30,8,1996,167,5.52947,Bluffing
+668,Sternenhimmel,3,5,30,10,1995,377,5.77905,Bluffing
+673,Star Traders,2,6,120,12,1987,390,5.63323,Economic
+673,Star Traders,2,6,120,12,1987,390,5.63323,Science Fiction
+679,Minion Hunter,1,6,60,12,1992,307,5.58301,Science Fiction
+684,Monopoly: The Card Game,2,6,30,8,2000,1153,5.50042,Economic
+686,Dr. Jekyll & Mr. Hyde,3,4,60,10,1997,720,5.86708,Bluffing
+691,Timbuktu,3,5,60,10,1993,1986,6.25164,Economic
+697,Conspiracy,3,4,90,10,1973,1297,5.75417,Bluffing
+699,HeroQuest,2,5,90,10,1989,12048,6.75533,Fighting
+700,Battle Masters,2,2,60,9,1992,3074,5.85409,Fighting
+710,Snit's Revenge,2,2,20,8,1977,690,5.68415,Fighting
+712,Blood Bowl (Third Edition),2,2,180,12,1994,5459,7.15206,Fighting
+714,Talisman,2,6,240,9,1983,5312,6.13008,Fighting
+718,Galaxy: The Dark Ages,2,5,90,12,2000,971,5.76636,Science Fiction
+719,Tyranno Ex,2,4,120,12,1990,839,5.78577,Fighting
+720,Fast Food Franchise,2,5,120,12,1992,408,5.72764,Economic
+723,X-Men Alert,2,4,60,9,1992,694,5.63513,Fighting
+751,Minos,2,4,120,16,1991,542,5.6798400000000004,Economic
+751,Minos,2,4,120,16,1991,542,5.6798400000000004,Fighting
+752,Maul of America,2,6,120,12,1998,175,5.4105,Fighting
+761,The Great Brain Robbery,3,7,60,10,2000,1180,5.50462,Fighting
+765,Space Walk,2,5,45,8,1999,493,5.60916,Science Fiction
+785,Dog Eat Dog,2,6,90,12,1999,222,5.459,Economic
+786,Maxi Bour$e,2,6,90,10,1987,293,5.34861,Economic
+796,Shanghai Trader,3,6,240,12,1986,373,5.65468,Economic
+799,The Hills Rise Wild!,2,4,180,12,2000,555,5.66599,Fighting
+804,Thunder Road,2,4,45,10,1986,1043,5.94661,Fighting
+804,Thunder Road,2,4,45,10,1986,1043,5.94661,Science Fiction
+815,Chrononauts,1,6,30,11,2000,7295,6.05324,Bluffing
+815,Chrononauts,1,6,30,11,2000,7295,6.05324,Science Fiction
+816,2038: Tycoons of the Asteroid Belt,3,6,360,14,1995,746,5.9102,Economic
+816,2038: Tycoons of the Asteroid Belt,3,6,360,14,1995,746,5.9102,Science Fiction
+825,Screaming Eagles,2,4,20,10,1987,663,5.57852,Fighting
+831,Schrille Stille,3,6,60,10,1999,656,5.91119,Economic
+836,New England Railways,3,6,120,13,2000,411,5.66158,Economic
+840,Corsairs,2,4,60,10,2000,712,5.69752,Fighting
+841,Razzia,3,8,30,12,1992,470,5.69202,Bluffing
+841,Razzia,3,8,30,12,1992,470,5.69202,Economic
+843,Circus Minimus,2,7,60,12,2000,633,5.65805,Fighting
+854,Doge,3,4,45,12,2000,1144,5.92954,Bluffing
+875,Roads & Boats,1,4,240,14,1999,3452,7.15401,Economic
+883,Ivanhoe,2,5,45,10,2000,2087,6.16232,Fighting
+900,City,2,6,30,8,1988,206,5.51398,Economic
+902,Meuterer,3,4,60,12,2000,5130,6.59982,Fighting
+906,Abilene,3,6,45,8,1983,232,5.53162,Fighting
+911,Empires of the Middle Ages,1,6,240,14,1980,863,5.94127,Economic
+925,Werewolf,8,24,60,8,1986,3717,6.393,Bluffing
+927,Lift Off,2,4,30,8,2000,307,5.45256,Science Fiction
+935,Australian Rails,2,6,240,10,1994,739,5.93479,Economic
+944,Mag·Blast,2,6,60,10,1998,411,5.60268,Fighting
+944,Mag·Blast,2,6,60,10,1998,411,5.60268,Science Fiction
+956,Azteca,2,4,240,12,2000,323,5.54869,Economic
+958,Orcz,2,4,45,12,2000,479,5.49314,Bluffing
+958,Orcz,2,4,45,12,2000,479,5.49314,Fighting
+982,Amoeba Wars,2,6,150,12,1981,903,5.63804,Science Fiction
+1014,Fief 2,3,6,120,10,1989,234,5.66226,Economic
+1036,Speculation,3,6,45,10,1992,863,5.98098,Economic
+1037,Deadlands: Doomtown,2,6,45,10,1998,859,6.17175,Fighting
+1042,Dragon's Gold,3,6,45,12,2001,3648,6.22273,Fighting
+1044,Gunslinger,1,7,90,12,1982,1712,6.21691,Fighting
+1098,Judge Dredd,2,6,90,8,1982,762,5.67888,Fighting
+1098,Judge Dredd,2,6,90,8,1982,762,5.67888,Science Fiction
+1117,You're Bluffing!,3,5,45,10,1985,4178,6.32704,Bluffing
+1125,Big Shot,2,4,30,10,2001,552,5.79183,Economic
+1126,Car Wars: The Card Game,2,6,60,10,1991,1252,5.46792,Fighting
+1126,Car Wars: The Card Game,2,6,60,10,1991,1252,5.46792,Science Fiction
+1143,Warrior Knights,2,6,180,10,1985,1060,5.8661,Fighting
+1144,The Warlock of Firetop Mountain,2,6,120,10,1986,1146,5.60156,Fighting
+1145,City of Chaos,1,6,300,12,1996,301,5.6765,Fighting
+1146,Shadowlord!,2,4,150,10,1983,959,5.49854,Science Fiction
+1149,Dragon Strike,2,6,60,10,1993,1383,5.69298,Fighting
+1152,The Mystic Wood,2,4,60,12,1980,873,5.79386,Fighting
+1157,Save Doctor Lucky,3,7,30,10,2000,2277,5.66911,Bluffing
+1159,Evo,3,5,60,14,2001,3640,6.62483,Science Fiction
+1162,Burp,2,4,60,10,1995,221,5.50549,Bluffing
+1163,"Ciao, Ciao...",2,4,30,10,1997,506,5.63001,Bluffing
+1206,Venture,2,6,45,10,1969,1580,5.88375,Economic
+1207,Big Deal,2,6,120,12,2001,211,5.49136,Economic
+1237,Autoscooter,2,8,60,10,1999,166,5.62101,Bluffing
+1246,Insecta,1,7,300,12,1995,367,5.58438,Fighting
+1246,Insecta,1,7,300,12,1995,367,5.58438,Science Fiction
+1257,Starbase Jeff,2,4,60,10,1998,750,5.65706,Science Fiction
+1263,Knatsch,2,6,30,8,2000,1358,5.54361,Fighting
+1301,Netrunner,2,2,45,10,1996,2894,6.82201,Science Fiction
+1309,Die Magier von Pangea,2,4,60,10,2001,926,5.78292,Economic
+1312,Nur Peanuts!,2,6,45,8,2001,207,5.60404,Economic
+1330,Savannah Café,2,4,20,7,2001,518,5.50037,Bluffing
+1339,Dungeon!,1,8,30,8,1975,5491,5.75873,Fighting
+1346,Crazy Race,3,4,30,12,2001,339,5.53489,Bluffing
+1370,The Classic Dungeon,2,6,30,6,1992,633,5.61167,Fighting
+1398,Chicago,2,4,120,16,1986,418,5.47869,Fighting
+1408,Gammarauders,2,6,120,12,1987,788,5.54831,Science Fiction
+1420,Monopoly Express,2,4,20,8,1991,1472,5.583,Economic
+1421,Lost Worlds,2,2,10,10,1983,1234,5.78782,Fighting
+1434,Dealer's Choice,3,5,45,8,1972,456,5.53933,Economic
+1435,4000 A.D.,2,4,90,10,1972,817,5.45167,Science Fiction
+1436,Billionaire,2,4,60,9,1973,576,5.41946,Economic
+1437,Trust Me,2,4,45,8,1981,351,5.44802,Bluffing
+1437,Trust Me,2,4,45,8,1981,351,5.44802,Economic
+1447,1841,2,8,300,14,1994,226,5.85739,Economic
+1467,Abduction,2,4,20,10,1998,408,5.43568,Fighting
+1467,Abduction,2,4,20,10,1998,408,5.43568,Science Fiction
+1471,Gangsters,2,5,120,12,1992,550,5.66575,Fighting
+1491,Outpost,2,9,150,12,1991,1366,6.20622,Economic
+1491,Outpost,2,9,150,12,1991,1366,6.20622,Science Fiction
+1493,1853,3,6,180,12,1989,1092,5.9321,Economic
+1501,Masterpiece,3,6,60,8,1970,2603,5.48692,Bluffing
+1502,Hotel Tycoon,2,4,60,8,1974,3251,5.38022,Economic
+1503,Mid-East Peace,2,6,120,12,1990,230,5.44961,Bluffing
+1506,Conquistador,1,4,360,12,1976,1500,5.8193,Economic
+1518,Executive Decision,2,6,90,12,1971,1229,5.64839,Economic
+1519,Kult,2,99,45,14,1995,303,5.67642,Fighting
+1522,Get Out,2,8,120,10,1998,576,5.49898,Economic
+1540,BattleTech,2,20,90,12,1985,3907,6.53207,Fighting
+1540,BattleTech,2,20,90,12,1985,3907,6.53207,Science Fiction
+1544,Beyond Balderdash,2,6,45,10,1993,3449,6.38891,Bluffing
+1552,Illuminati: New World Order,2,8,120,12,1994,2234,5.95735,Science Fiction
+1558,Rogue Trooper,2,6,120,12,1987,733,5.60774,Fighting
+1558,Rogue Trooper,2,6,120,12,1987,733,5.60774,Science Fiction
+1566,Simply Cosmic,2,4,45,10,1995,548,5.68226,Science Fiction
+1568,Space Crusade,2,4,120,10,1990,3333,6.39929,Science Fiction
+1578,RoadKill,2,10,90,12,1993,614,5.57608,Fighting
+1578,RoadKill,2,10,90,12,1993,614,5.57608,Science Fiction
+1579,Wrasslin',2,16,45,10,1990,620,5.60363,Fighting
+1580,Legends of Robin Hood,2,5,60,10,1991,333,5.50444,Fighting
+1590,Stocks & Bonds,2,8,60,12,1964,1911,5.51586,Economic
+1598,Olympica,2,2,45,12,1978,402,5.55855,Science Fiction
+1608,Ambush!,1,1,240,12,1983,3814,6.68417,Fighting
+1621,Mutant Chronicles: Siege of the Citadel,2,5,120,10,1993,1485,6.16552,Science Fiction
+1627,XXXenophile,2,5,45,12,1996,433,5.55995,Bluffing
+1627,XXXenophile,2,5,45,12,1996,433,5.55995,Science Fiction
+1686,Spy vs Spy,2,4,90,10,1986,287,5.49785,Fighting
+1690,Unexploded Cow,2,6,25,12,2001,2826,5.8036,Economic
+1693,Gladiator,2,6,90,12,1981,972,5.76622,Fighting
+1695,The Legend of Robin Hood,2,2,120,12,1979,935,5.68941,Economic
+1698,X-Men: Under Siege,2,4,120,10,1994,447,5.52155,Fighting
+1698,X-Men: Under Siege,2,4,120,10,1994,447,5.52155,Science Fiction
+1702,Klondike,2,4,20,6,1993,465,5.72862,Bluffing
+1706,UFO: Game of Close Encounters,2,2,30,12,1976,394,5.41604,Science Fiction
+1708,Stellar Conquest,2,4,240,12,1975,1253,5.77831,Economic
+1708,Stellar Conquest,2,4,240,12,1975,1253,5.77831,Science Fiction
+1721,Business Strategy,2,4,90,10,1973,398,5.54698,Economic
+1723,Alpha Omega,2,3,120,12,1977,507,5.45321,Science Fiction
+1727,Summit,3,6,60,12,1961,353,5.51691,Economic
+1748,A Question of Scruples,4,12,60,18,1984,1241,5.12177,Bluffing
+1758,Advanced Heroquest,1,5,120,10,1989,1896,6.04187,Fighting
+1771,Cosmic Coasters,2,4,10,10,2001,516,5.4296,Science Fiction
+1772,Asteroid,2,2,120,10,1980,384,5.59467,Science Fiction
+1796,Pampas Railroads,3,6,120,12,2001,283,5.77747,Economic
+1797,Pay Day,2,6,30,8,1975,3044,4.95965,Economic
+1823,1829,3,9,360,12,1974,333,5.7568,Economic
+1827,Chainsaw Warrior,1,1,60,10,1987,1008,5.5781,Fighting
+1829,Risk 2210 A.D.,2,5,240,10,2001,9459,6.42973,Science Fiction
+1830,Nippon Rails,2,4,240,10,1992,950,5.94794,Economic
+1831,North American Rails,2,6,120,12,1992,218,5.67202,Economic
+1836,Solarquest,2,6,60,8,1986,1319,5.57545,Economic
+1836,Solarquest,2,6,60,8,1986,1319,5.57545,Science Fiction
+1859,Doomtrooper,2,7,60,10,1994,598,5.46396,Fighting
+1859,Doomtrooper,2,7,60,10,1994,598,5.46396,Science Fiction
+1887,Legend of the Five Rings,2,8,45,12,1995,2060,6.43474,Fighting
+1897,Starfarers of Catan,3,4,120,12,1999,5850,6.54827,Science Fiction
+1899,13 Dead End Drive,2,4,45,9,1993,2488,5.61219,Bluffing
+1901,Star Fleet Battle Force,1,6,90,8,2001,426,5.66005,Science Fiction
+1902,Mad Scientist,2,4,30,10,2000,185,5.38448,Science Fiction
+1912,World Cup Tournament Football,2,10,60,10,1993,251,5.63766,Bluffing
+1920,The Business Game,2,6,90,8,1965,497,5.55248,Economic
+1927,Munchkin,3,6,120,10,2001,47958,5.79778,Fighting
+1931,Anti-Monopoly,2,6,120,8,1973,1306,4.85173,Economic
+1932,Anti-Monopoly II,2,6,120,8,1977,299,5.27981,Economic
+1940,Sindbad,2,5,60,10,1990,227,5.57065,Economic
+1940,Sindbad,2,5,60,10,1990,227,5.57065,Fighting
+1958,The Game of Nations,2,4,120,12,1973,584,5.42948,Economic
+1965,Mertwig's Maze,2,6,100,10,1988,512,5.68701,Fighting
+1986,Spy Alley,2,6,45,8,1992,1664,5.59801,Bluffing
+2063,The Great Khan Game,2,6,90,10,1989,609,5.77603,Bluffing
+2087,Magic Dance,3,6,45,8,1988,749,5.5799,Bluffing
+2088,Coup,2,6,90,10,1975,231,5.59221,Economic
+2091,Legions of Steel,2,5,180,12,1992,266,5.66494,Fighting
+2091,Legions of Steel,2,5,180,12,1992,266,5.66494,Science Fiction
+2092,Elfengold,2,6,60,10,1991,242,5.54825,Bluffing
+2098,Heresy,2,5,90,12,1995,180,5.52537,Fighting
+2106,Imperium: 3rd Millennium,2,2,120,12,2001,439,5.4488,Science Fiction
+2121,The Sword and the Stars,1,5,240,12,1981,404,5.57365,Economic
+2121,The Sword and the Stars,1,5,240,12,1981,404,5.57365,Science Fiction
+2122,Vampire: The Eternal Struggle,2,5,120,13,1994,2460,6.4907,Fighting
+2123,Shadowrun: The Trading Card Game,2,8,60,12,1997,418,5.66802,Fighting
+2123,Shadowrun: The Trading Card Game,2,8,60,12,1997,418,5.66802,Science Fiction
+2127,Overpower,2,2,30,10,1995,598,5.50453,Fighting
+2132,Guardians,2,4,45,12,1995,461,5.64166,Fighting
+2133,Rage,2,6,45,12,1995,846,5.63884,Fighting
+2135,On the Edge,2,5,45,12,1994,571,5.64776,Fighting
+2144,Ebola Monkey Hunt,3,6,60,12,1998,239,5.45187,Fighting
+2146,Warlock,2,6,60,12,1980,506,5.55966,Fighting
+2162,"Warhammer 40,000",2,6,120,17,1993,2915,6.02679,Fighting
+2162,"Warhammer 40,000",2,6,120,17,1993,2915,6.02679,Science Fiction
+2163,Space Hulk,2,4,45,12,1989,3301,6.94853,Fighting
+2163,Space Hulk,2,4,45,12,1989,3301,6.94853,Science Fiction
+2166,Wyvern,2,2,30,10,1994,667,5.38495,Fighting
+2169,Arcadia: The Wyld Hunt,1,5,30,10,1996,260,5.48834,Fighting
+2179,Musketeers,2,4,40,8,1991,906,5.65463,Bluffing
+2180,Flagship: Prometheus Unchained,2,4,180,10,2002,412,5.58488,Science Fiction
+2189,Pfusch,2,5,30,8,1992,232,5.57802,Bluffing
+2192,Rivets,2,2,30,10,1977,541,5.63068,Science Fiction
+2194,Chitin: I,2,2,30,10,1977,461,5.55708,Science Fiction
+2195,Globbo!,2,2,45,12,1983,237,5.52341,Fighting
+2195,Globbo!,2,2,45,12,1983,237,5.52341,Science Fiction
+2200,Falsche FuFFziger,3,6,90,12,1994,274,5.60458,Economic
+2213,Revolt on Antares,2,4,45,12,1981,430,5.60172,Science Fiction
+2215,They've Invaded Pleasantville,2,2,45,12,1981,451,5.54675,Science Fiction
+2252,King of the Tabletop,2,4,180,12,1983,365,5.72043,Bluffing
+2254,Title Bout,1,2,45,12,1979,450,5.70352,Fighting
+2258,The Stock Market Game,1,6,60,0,1970,611,5.45243,Economic
+2262,Mythology,2,8,180,12,1980,279,5.59909,Bluffing
+2262,Mythology,2,8,180,12,1980,279,5.59909,Fighting
+2265,Ultimate Stratego,2,4,30,10,1997,734,5.58553,Bluffing
+2268,Lost Patrol,2,4,30,12,2000,487,5.67864,Science Fiction
+2275,Airlines,2,4,120,12,1998,294,5.3693,Economic
+2280,Marco Polo,2,4,60,8,1983,163,5.45185,Economic
+2285,Dark Future,2,0,60,8,1988,522,5.55043,Science Fiction
+2288,Blood Bowl (Second Edition),2,2,180,14,1988,1689,6.16204,Fighting
+2290,Ghosts!,2,2,15,6,1980,1521,5.98148,Bluffing
+2297,U.S. Patent No. 1,3,6,60,10,2001,717,5.43754,Fighting
+2297,U.S. Patent No. 1,3,6,60,10,2001,717,5.43754,Science Fiction
+2301,The New Dungeon!,1,6,45,8,1989,765,5.65988,Fighting
+2316,X-Bugs,2,2,30,10,2001,860,5.79191,Fighting
+2324,Last Frontier: The Vesuvius Incident,1,1,120,12,1993,589,5.72975,Science Fiction
+2338,Starship Catan,2,2,60,12,2001,5864,6.57706,Science Fiction
+2362,Tower of the Wizard King,2,4,60,10,1993,309,5.53612,Fighting
+2368,Battlecars,2,4,90,12,1983,600,5.64994,Fighting
+2368,Battlecars,2,4,90,12,1983,600,5.64994,Science Fiction
+2376,The Wreck of the B.S.M. Pandora,1,5,120,10,1980,572,5.62101,Science Fiction
+2388,Dark Nebula,2,2,90,12,1980,412,5.59678,Science Fiction
+2431,Bargain Hunter,2,4,60,9,1981,311,5.37943,Economic
+2455,India Rails,2,6,180,12,1998,880,6.00146,Economic
+2458,Battle Cattle: The Card Game,2,6,30,10,2001,421,5.45292,Fighting
+2476,Industrial Waste,2,4,60,12,2001,1281,6.26193,Economic
+2502,Global Survival,2,8,0,14,1992,162,5.11741,Economic
+2517,Ulcers,2,4,90,10,1969,305,5.47774,Economic
+2520,Renegade Legion: Interceptor,2,4,120,12,1987,496,5.67674,Science Fiction
+2524,StarForce 'Alpha Centauri': Interstellar Conflict in the 25th Century,1,3,240,12,1974,841,5.61857,Science Fiction
+2535,Valley of the Mammoths,3,6,180,12,1991,1446,5.95524,Fighting
+2536,Vabanque,3,6,30,12,2001,513,5.69542,Bluffing
+2562,Samurai & Katana,3,6,120,12,1999,479,5.59113,Economic
+2569,Pick Picknic,2,6,30,8,2001,2778,6.24374,Bluffing
+2583,18GA,3,5,240,14,1998,249,5.78047,Economic
+2608,King Oil,2,4,60,9,1974,706,5.62417,Economic
+2612,18AL,3,5,180,14,1999,606,6.16607,Economic
+2613,Intruder,1,2,30,10,1980,608,5.68776,Science Fiction
+2641,"Barbarian, Kingdom & Empire",1,6,180,0,1983,204,5.63593,Economic
+2651,Power Grid,2,6,120,12,2004,47983,7.86513,Economic
+2652,Wise and Otherwise,2,6,45,12,1997,1283,6.01252,Bluffing
+2653,Survive: Escape from Atlantis!,2,4,60,8,1982,19412,7.18274,Bluffing
+2678,Voyage of the B.S.M. Pandora,1,1,90,10,1981,669,5.71901,Science Fiction
+2689,British Rails,2,6,180,12,1984,1017,6.02536,Economic
+2740,Jumbo Jet,2,6,240,10,1975,392,5.37329,Economic
+2750,Imaginiff,3,8,30,12,1998,2224,5.50869,Bluffing
+2760,Knights of the Dinner Table: Orcs at the Gates,2,5,60,10,1998,249,5.50514,Fighting
+2773,Knights of the Dinner Table: HACK!,2,5,30,10,2001,642,5.59233,Fighting
+2795,Car Wars,2,8,45,10,1981,3929,6.02088,Fighting
+2795,Car Wars,2,8,45,10,1981,3929,6.02088,Science Fiction
+2802,War in Europe,2,3,360,14,1976,333,5.67548,Economic
+2809,Star Force Terra #1: Contact!,2,6,60,10,1991,235,5.56317,Science Fiction
+2817,Delta V,2,4,60,12,2001,593,5.39792,Science Fiction
+2844,Throneworld,2,6,270,0,1997,576,5.66265,Science Fiction
+2856,BrewMaster: The Craft Beer Game,2,5,60,16,2001,173,5.53165,Economic
+2876,Mage Knight Dungeons,2,4,60,10,2002,1097,5.92163,Fighting
+2891,Starfire,2,3,30,10,1979,555,5.73113,Science Fiction
+2902,Twilight Imperium: Armada,2,6,45,12,2001,236,5.61256,Fighting
+2902,Twilight Imperium: Armada,2,6,45,12,2001,236,5.61256,Science Fiction
+2904,John Prados' Third Reich,2,5,360,12,2001,638,5.67898,Economic
+2916,File 13,1,4,30,10,1983,217,5.46561,Economic
+2919,Search for the Emperor's Treasure,2,10,60,10,1981,296,5.68812,Economic
+2929,Monopoly: The .com Edition,2,8,60,8,2000,358,5.40133,Economic
+2942,Admirals,2,2,30,7,1972,324,5.49707,Bluffing
+2942,Admirals,2,2,30,7,1972,324,5.49707,Fighting
+2947,Broker,2,6,75,12,1961,691,5.56262,Economic
+2960,Camden,2,4,20,10,2002,991,5.73621,Economic
+2961,Confusion:  Espionage and Deception in the Cold War,2,2,45,12,1992,1788,6.42282,Bluffing
+2965,Kendo,2,4,30,10,1976,383,5.58133,Fighting
+2968,Ka-Ching!,2,4,20,8,2001,686,5.80571,Economic
+2970,Squatter,2,6,90,10,1962,360,5.49311,Economic
+2972,Fantasy Business,3,8,45,12,2002,701,5.50637,Bluffing
+2972,Fantasy Business,3,8,45,12,2002,701,5.50637,Economic
+2978,Stratego 4,2,4,45,8,1995,585,5.62558,Bluffing
+2987,Pirate's Cove,3,5,90,8,2002,8748,6.43553,Fighting
+3065,Monopoly: Stock Exchange,2,6,120,8,2001,249,5.50388,Economic
+3072,Necromunda,2,4,30,12,1995,1774,6.54135,Fighting
+3072,Necromunda,2,4,30,12,1995,1774,6.54135,Science Fiction
+3076,Puerto Rico,2,5,150,12,2002,54393,7.98494,Economic
+3086,The Omega Virus,1,4,35,14,1992,1463,5.8463,Science Fiction
+3089,Bounty Hunter: Shootout at the Saloon,2,2,10,12,1982,328,5.48329,Fighting
+3097,1849,3,5,180,14,1998,191,5.82068,Economic
+3114,Poleconomy,2,6,180,12,1977,664,5.47083,Economic
+3127,Age of Empires II,0,0,120,12,2000,233,5.51061,Fighting
+3128,Clippers,2,5,90,10,2002,1117,6.03797,Economic
+3137,Anno Domini: Erfindungen,2,8,30,10,1999,625,5.88594,Bluffing
+3154,Nautilus,2,4,120,12,2002,2213,6.00037,Economic
+3154,Nautilus,2,4,120,12,2002,2213,6.00037,Science Fiction
+3162,Invasion of the Air-eaters,2,2,90,10,1979,396,5.5715,Science Fiction
+3163,Doom of the Eldar,2,2,120,12,1993,375,5.64972,Science Fiction
+3170,Horus Heresy,2,2,120,12,1993,408,5.64687,Science Fiction
+3177,Battle for Armageddon,2,2,120,14,1992,479,5.6997,Science Fiction
+3234,Dschunke,3,4,60,10,2002,1425,6.11896,Economic
+3242,Clash of the Gladiators,2,5,45,10,2002,964,5.68082,Fighting
+3243,Wooly Bully,2,4,30,7,2002,3170,5.91202,Bluffing
+3247,Planet Busters,2,4,60,10,1982,285,5.52707,Science Fiction
+3248,Citadel of Blood,1,6,30,10,1980,522,5.6127,Fighting
+3249,Rescue from the Hive,1,2,60,12,1981,507,5.51982,Science Fiction
+3271,Battlesuit,2,2,60,10,1983,347,5.46866,Science Fiction
+3307,Wallenstein (first edition),3,5,150,12,2002,2641,7.06257,Economic
+3339,Diceland: Deep White Sea,2,5,20,10,2002,528,5.71555,Fighting
+3339,Diceland: Deep White Sea,2,5,20,10,2002,528,5.71555,Science Fiction
+3341,Burn Rate,2,4,45,13,2002,774,5.67407,Economic
+3343,Go For Broke,2,4,60,10,1965,1582,5.04666,Economic
+3439,HeroClix,2,2,60,10,2002,3175,6.1103,Fighting
+3463,Wizard,2,2,30,10,1978,710,5.87785,Fighting
+3464,Melee,2,2,15,10,1977,889,5.93432,Fighting
+3466,WarpWar,2,2,30,12,1977,631,5.63148,Science Fiction
+3475,Shadowfist,2,7,60,10,1995,584,5.9406,Fighting
+3476,Shadowrun: DMZ Downtown Militarized Zone,2,2,30,12,1990,325,5.45537,Science Fiction
+3484,Armada,2,4,120,10,1986,746,5.41806,Fighting
+3487,BattleTech CCG,2,2,20,10,1996,969,5.83516,Science Fiction
+3528,Priceless,2,4,45,13,1996,197,5.53436,Economic
+3534,Star Trader,2,6,180,12,1982,540,5.78458,Economic
+3534,Star Trader,2,6,180,12,1982,540,5.78458,Science Fiction
+3560,Ice War,2,2,60,12,1978,362,5.52695,Science Fiction
+3565,Mordheim: City of the Damned,2,6,60,10,1999,1692,6.45037,Fighting
+3567,Roller Coaster Tycoon,2,4,45,8,2002,786,5.6424,Economic
+3600,Fifth Frontier War,2,4,360,12,1981,372,5.6298,Science Fiction
+3616,BattleForce,2,20,120,10,1987,315,5.55631,Science Fiction
+3625,DeathMaze,1,6,90,10,1979,502,5.5326,Fighting
+3637,Triplanetary,2,3,45,12,1973,264,5.62812,Science Fiction
+3640,Spy Ring,2,4,45,7,1965,283,5.46744,Fighting
+3661,Imperium,2,2,180,12,1977,1111,5.93084,Science Fiction
+3662,BattleFleet Mars,2,2,120,12,1977,445,5.57695,Science Fiction
+3758,Triopoly,2,8,240,10,1997,427,5.44964,Economic
+3800,Himalaya,3,4,60,8,2002,1867,6.53621,Economic
+3828,Locomotive Werks,3,5,120,12,2002,681,5.90407,Economic
+3850,Galactic Empires,2,12,45,10,1994,322,5.46035,Science Fiction
+3864,Mechwarrior: Dark Age,2,10,60,10,2002,1078,5.74389,Science Fiction
+3887,Stock Market Game,2,8,180,10,1963,467,5.60102,Economic
+3893,Full Thrust,2,6,120,12,1992,655,5.98922,Science Fiction
+3895,Silent Death,2,8,120,10,1990,654,5.89572,Fighting
+3895,Silent Death,2,8,120,10,1990,654,5.89572,Science Fiction
+3921,Street Illegal,1,7,45,10,2002,894,5.56622,Bluffing
+3931,Mare Nostrum,3,5,120,10,2003,3215,6.4148,Economic
+3947,Cannibal Pygmies in the Jungle of Doom,2,6,20,12,2002,664,5.5524,Fighting
+3955,BANG!,4,7,40,8,2002,22408,6.43743,Bluffing
+3955,BANG!,4,7,40,8,2002,22408,6.43743,Fighting
+3965,Snapshot,2,2,60,12,1979,371,5.5644,Fighting
+3965,Snapshot,2,2,60,12,1979,371,5.5644,Science Fiction
+3966,The Succession Wars,2,5,240,10,1987,436,5.62157,Science Fiction
+3967,Battlefleet Gothic,2,4,180,12,1999,1179,6.11446,Science Fiction
+3998,Fortune,3,8,180,12,1976,330,5.55614,Economic
+4001,Space Marine,2,3,120,12,1989,792,5.86861,Science Fiction
+4091,Adeptus Titanicus,2,2,120,12,1988,296,5.58757,Science Fiction
+4095,Star Munchkin,3,6,90,10,2002,7101,5.93023,Fighting
+4095,Star Munchkin,3,6,90,10,2002,7101,5.93023,Science Fiction
+4098,Age of Steam,1,6,120,13,2002,6280,7.43062,Economic
+4106,Moderne Zeiten,3,5,45,10,2002,303,5.74565,Economic
+4141,Spy Web,2,2,30,8,1997,294,5.55339,Bluffing
+4174,Lifeboat,4,6,60,13,2002,3103,6.09969,Bluffing
+4279,Flux,2,6,90,12,1986,502,5.47012,Fighting
+4317,Mayday,2,2,120,12,1978,367,5.53904,Science Fiction
+4356,Monkeys on the Moon,2,4,60,10,2002,1185,5.81572,Science Fiction
+4370,Fische Fluppen Frikadellen,2,5,90,10,2002,1150,6.05258,Economic
+4375,Krone & Schwert,2,5,60,10,2002,566,5.60088,Fighting
+4402,Bayon,2,4,30,10,2002,384,5.50541,Economic
+4471,Fist of Dragonstones,3,6,45,8,2002,2161,5.94349,Bluffing
+4479,Ratrace,2,6,90,9,1967,404,5.49899,Economic
+4485,Hotel Life,3,4,120,10,1989,149,5.70532,Economic
+4562,Mogul,3,6,45,13,2002,593,5.83525,Economic
+4606,Sucking Vacuum,3,6,45,13,2004,758,5.50003,Bluffing
+4606,Sucking Vacuum,3,6,45,13,2004,758,5.50003,Science Fiction
+4616,Arimaa,2,2,60,10,2002,839,6.09408,Fighting
+4636,Clans,2,4,30,10,2002,4230,6.37019,Bluffing
+4646,Bommerz over da Sulphur River,1,2,30,8,1998,207,5.48841,Science Fiction
+4651,Stalingrad,2,2,120,12,1963,906,5.55342,Fighting
+4671,INWO SubGenius,2,4,120,12,1998,560,5.5762,Science Fiction
+4741,Warmachine,2,4,60,12,2003,1237,6.34199,Fighting
+4745,Battlecards: World Conflict – Western European Campaign – Starter Set,2,8,60,8,2001,203,5.47694,Fighting
+4799,Dicemaster: Cities of Doom,2,2,90,12,1996,291,5.51872,Fighting
+4953,1313 Dead End Drive,2,4,30,8,2002,1283,5.56407,Bluffing
+4978,Warzone (second edition),2,8,240,12,1998,256,5.61366,Science Fiction
+4979,Blood Berets,2,4,60,12,1993,376,5.53073,Science Fiction
+5012,Snit Smashing,2,4,30,12,1977,416,5.50126,Science Fiction
+5086,Electronic Mall Madness,2,4,60,9,1989,612,5.47672,Economic
+5135,Malarky,3,6,45,10,1996,897,5.52395,Bluffing
+5186,King Arthur and the Knights of the Round Table,1,6,240,12,1986,314,5.56182,Economic
+5186,King Arthur and the Knights of the Round Table,1,6,240,12,1986,314,5.56182,Fighting
+5195,The Farming Game,2,6,120,10,1979,1006,5.55893,Economic
+5205,G.E.V.,2,2,75,12,1978,1489,6.12555,Fighting
+5205,G.E.V.,2,2,75,12,1978,1489,6.12555,Science Fiction
+5206,Ogre,1,3,45,10,1977,6456,6.48167,Fighting
+5206,Ogre,1,3,45,10,1977,6456,6.48167,Science Fiction
+5233,The Great Battles of Alexander,2,2,240,12,1991,507,5.74959,Fighting
+5316,"Warhammer Epic 40,000",2,4,180,0,1997,726,5.86394,Science Fiction
+5336,Talisman (third edition),2,8,120,9,1994,1913,5.94358,Fighting
+5339,Monopoly Junior,2,4,45,5,1990,1517,4.86942,Economic
+5369,Hordes of the Things,2,6,45,12,1991,451,5.82554,Fighting
+5404,Amun-Re,3,5,90,12,2003,7016,7.13934,Economic
+5406,New England,3,4,90,12,2003,2157,6.16296,Economic
+5447,Wealth of Nations,2,6,120,10,1975,357,5.49171,Economic
+5465,Space Fleet,2,4,60,8,1991,218,5.48621,Science Fiction
+5472,Monopoly: Millennium,2,8,90,8,2000,682,5.40868,Economic
+5475,After the Holocaust,3,4,360,12,1977,404,5.55764,Economic
+5503,Time Tripper,1,4,45,12,1980,438,5.5833,Science Fiction
+5534,Light Speed,2,5,10,10,2003,1613,5.9641,Fighting
+5534,Light Speed,2,5,10,10,2003,1613,5.9641,Science Fiction
+5559,Sky Galleons of Mars,2,6,120,10,1988,435,5.63504,Science Fiction
+5575,PeaceBowl,2,4,45,10,2003,201,5.56859,Fighting
+5589,Full House,2,4,60,8,1979,173,5.49759,Economic
+5591,Clue Jr.: The Case of the Hidden Toys,2,4,30,5,1996,232,5.40035,Bluffing
+5684,18EU,2,6,300,14,2001,325,5.9959,Economic
+5686,Stargrunt II,2,4,120,12,1996,286,5.7269,Science Fiction
+5687,Dirtside II,2,4,120,12,1993,290,5.67399,Science Fiction
+5715,Petropolis,2,7,90,9,1976,190,5.48041,Economic
+5757,Bakerstreet,2,2,30,10,2003,427,5.50923,Bluffing
+5781,"Edel, Stein & Reich",3,5,60,9,2003,1713,6.36138,Bluffing
+5811,The Best of Dragon Magazine Games,2,6,60,10,1990,559,5.62003,Bluffing
+6050,Duel of Ages Set 1: Worldspanner,2,16,120,12,2003,2345,6.15003,Fighting
+6050,Duel of Ages Set 1: Worldspanner,2,16,120,12,2003,2345,6.15003,Science Fiction
+6090,Pack of Flies,2,5,20,8,2003,541,5.37156,Bluffing
+6117,Nobody but Us Chickens,3,6,20,8,2003,648,5.73311,Bluffing
+6191,Xe Queo!,2,2,20,8,1998,361,5.71814,Bluffing
+6209,Mag·Blast (Second Edition),2,8,20,10,2002,762,5.84412,Science Fiction
+6215,StarSoldier: Tactical Warfare in the 25th Century,2,3,120,12,1977,415,5.56219,Science Fiction
+6281,Eketorp,3,6,60,8,2003,1523,5.97369,Bluffing
+6281,Eketorp,3,6,60,8,2003,1523,5.97369,Fighting
+6282,Azhanti High Lightning,2,16,60,10,1980,345,5.59562,Science Fiction
+6366,Dungeons & Dragons: The Fantasy Adventure Board Game,2,5,60,10,2003,2708,6.00344,Fighting
+6380,WarCry,2,4,20,12,2003,227,5.5802,Fighting
+6508,Tom Tube,2,2,30,10,2003,637,5.75298,Science Fiction
+6516,Titan Legions,2,2,240,12,1994,237,5.59788,Fighting
+6516,Titan Legions,2,2,240,12,1994,237,5.59788,Science Fiction
+6551,Crimson Skies,2,2,10,10,2003,896,5.66902,Fighting
+6552,Cashflow 101,2,6,180,10,1996,573,5.31128,Economic
+6559,Glory II: Across the Rappahannock,1,2,360,12,2002,499,5.5912,Fighting
+6607,Munchkin Fu,3,6,90,10,2003,3642,5.7185,Fighting
+6646,Excalibur,2,6,120,14,1989,587,5.65598,Fighting
+6653,Strange Synergy,2,4,45,12,2003,662,5.55353,Fighting
+6653,Strange Synergy,2,4,45,12,2003,662,5.55353,Science Fiction
+6663,Lunar Rails,2,6,240,10,2003,829,5.94172,Economic
+6663,Lunar Rails,2,6,240,10,2003,829,5.94172,Science Fiction
+6698,Shadowrun Duels,2,2,30,8,2003,284,5.5128,Fighting
+6698,Shadowrun Duels,2,2,30,8,2003,284,5.5128,Science Fiction
+6711,Hit the Deck,2,6,20,6,2001,686,5.29584,Bluffing
+6738,Quicksand,2,5,20,12,2003,1250,5.80871,Bluffing
+6742,Dungeons & Dragons Chainmail,2,6,60,10,2001,218,5.55019,Fighting
+6752,Attack!,2,6,180,10,2003,3254,5.68218,Economic
+6767,Attack Vector: Tactical,2,8,240,12,2004,337,5.69181,Fighting
+6767,Attack Vector: Tactical,2,8,240,12,2004,337,5.69181,Science Fiction
+6795,Battleball,2,2,45,8,2003,3460,6.00099,Science Fiction
+6824,Gold und Rum,4,7,45,10,2003,285,5.51171,Fighting
+6923,BattleTech: CityTech,2,6,90,12,1986,793,5.77587,Science Fiction
+7064,Senjutsu: Dynamic Samurai Combat,2,2,30,10,2003,229,5.62771,Fighting
+7098,Monopoly: Deluxe Edition,2,10,180,8,1995,1816,5.33547,Economic
+7164,"Warhammer 40,000 Collectible Card Game",2,2,45,10,2001,439,5.57874,Science Fiction
+7180,Monopoly: Nostalgia Wooden Box,2,6,180,8,2001,522,5.53289,Economic
+7182,TimeLine,2,5,10,10,2003,519,5.55349,Economic
+7182,TimeLine,2,5,10,10,2003,519,5.55349,Science Fiction
+7215,To the Green Fields Beyond,2,2,240,12,1978,490,5.68059,Fighting
+7218,18VA,2,5,210,14,2001,132,5.68727,Economic
+7240,Vanished Planet,1,6,60,8,2003,591,5.61002,Economic
+7240,Vanished Planet,1,6,60,8,2003,591,5.61002,Science Fiction
+7308,Rock 'Em Sock 'Em Robots,2,2,10,6,1967,297,5.30412,Science Fiction
+7464,Battleship Card Game,2,2,20,8,2002,320,5.52839,Bluffing
+7514,Zombie Plague,2,6,60,10,2001,648,5.81878,Fighting
+7514,Zombie Plague,2,6,60,10,2001,648,5.81878,Science Fiction
+7538,Fish Eat Fish,2,5,30,8,2003,844,5.59893,Bluffing
+7709,Hands Down,3,4,10,5,1964,293,5.41371,Bluffing
+7742,Confrontation,2,2,120,10,2000,511,5.85672,Fighting
+7771,En Garde!,2,20,90,0,1975,210,5.60734,Fighting
+7806,King Me!,3,6,30,8,2004,1938,6.06733,Bluffing
+7929,Dungeons & Dragons Miniatures,2,2,60,12,2003,1579,5.97301,Fighting
+7935,1844: Switzerland,3,7,300,12,2003,171,5.9283,Economic
+8031,Citadel Combat Cards,2,6,10,10,1992,290,5.36572,Fighting
+8031,Citadel Combat Cards,2,6,10,10,1992,290,5.36572,Science Fiction
+8045,Princes of the Renaissance,3,6,180,12,2003,2061,6.79703,Economic
+8069,Clue FX,2,4,30,8,2003,1153,5.69587,Bluffing
+8095,Prophecy,2,5,180,12,2002,2225,6.25784,Fighting
+8096,Logistico,2,5,60,11,2003,497,5.74082,Economic
+8104,Monopoly: European Edition,2,12,120,8,1991,202,5.439,Economic
+8124,Industria,3,4,60,10,2003,2168,6.13366,Economic
+8130,Die Fugger,2,4,45,10,2003,929,5.89002,Economic
+8138,Kogge,2,4,90,10,2003,397,5.79814,Economic
+8147,Maka Bana,2,6,60,10,2003,829,5.93402,Bluffing
+8172,Coyote,3,6,30,10,2003,1291,6.07348,Bluffing
+8196,BattleTech: AeroTech,2,8,120,12,1986,622,5.52009,Science Fiction
+8217,San Juan,2,4,60,10,2004,20064,7.19198,Economic
+8222,Spank the Monkey,2,6,30,12,2003,1644,5.71566,Fighting
+8229,Armadöra,2,4,30,8,2003,1187,5.87607,Bluffing
+8232,Zauberschwert & Drachenei,2,4,45,12,2003,848,5.66551,Bluffing
+8232,Zauberschwert & Drachenei,2,4,45,12,2003,848,5.66551,Fighting
+8307,Killer,3,50,360,12,1981,260,5.57484,Science Fiction
+8374,Monopoly: Deluxe Anniversary Edition,2,10,120,8,1985,337,5.47703,Economic
+8450,Hector and Achilles,2,2,30,10,2003,1064,5.51267,Fighting
+8508,Dork Tower,2,6,60,12,2003,660,5.56931,Fighting
+8515,Hybrid,2,2,120,12,2003,771,5.88949,Fighting
+8593,Wreckage,2,4,45,10,2003,1313,5.4947,Fighting
+8593,Wreckage,2,4,45,10,2003,1313,5.4947,Science Fiction
+8630,Advanced Space Crusade,2,2,45,12,1990,468,5.65804,Fighting
+8630,Advanced Space Crusade,2,2,45,12,1990,468,5.65804,Science Fiction
+8829,Nobody is Perfect,3,10,45,14,1992,763,5.97593,Bluffing
+8892,IGOR: The Mad Scientist's Lament,2,6,60,12,2004,226,5.51701,Science Fiction
+8935,Shazamm!,2,2,30,10,2003,948,5.7693,Bluffing
+8957,Renegade Legion: Centurion – Blood & Steel,2,4,60,12,1988,529,5.68406,Science Fiction
+8989,Hansa,2,4,60,10,2004,5262,6.66705,Economic
+9108,Masquerade,3,5,90,10,2003,785,5.62933,Fighting
+9202,Saga,2,4,30,12,2004,2094,5.66755,Fighting
+9216,Goa,2,4,90,12,2004,9437,7.44911,Economic
+9217,Saint Petersburg,2,4,60,10,2004,10574,7.19202,Economic
+9220,Saboteur,3,10,30,8,2004,23702,6.53686,Bluffing
+9296,Warzone (first edition),2,8,180,12,1996,259,5.65661,Science Fiction
+9388,Knock!  Knock!,3,6,20,10,2004,463,5.48628,Bluffing
+9408,Dos Rios,2,4,70,12,2004,1733,6.04994,Economic
+9441,Ribbit,2,5,20,5,2004,1783,6.2832,Bluffing
+9446,Blue Moon,2,2,30,12,2004,6241,6.54463,Fighting
+9617,Russian Rails,2,6,240,10,2004,605,5.90335,Economic
+9625,Struggle of Empires,2,7,240,13,2004,4113,7.06609,Fighting
+9735,Duell,2,2,30,9,2004,665,5.82969,Fighting
+9787,Beer Money,2,4,10,12,2004,814,5.57257,Fighting
+9792,Oriente,4,12,30,10,2004,1312,5.62311,Bluffing
+9792,Oriente,4,12,30,10,2004,1312,5.62311,Fighting
+9803,Operation Michael,2,2,180,12,2002,463,5.62478,Fighting
+9825,Early American Chrononauts,1,6,45,11,2004,1756,5.97642,Science Fiction
+9829,Runebound (First Edition),2,6,120,12,2004,1547,5.84487,Fighting
+10093,Axis & Allies,2,5,240,12,2004,6628,6.43295,Economic
+10149,The Great War in Europe,2,2,360,12,1995,404,5.63672,Economic
+10149,The Great War in Europe,2,2,360,12,1995,404,5.63672,Fighting
+10431,Epic Armageddon,2,8,120,12,2003,407,5.86824,Fighting
+10431,Epic Armageddon,2,8,120,12,2003,407,5.86824,Science Fiction
+10467,Renegade Legion: Leviathan,2,2,90,10,1989,352,5.56708,Science Fiction
+10520,Tyrus,2,2,30,12,2004,466,5.64059,Bluffing
+10676,Knight Hawks,2,2,60,12,1983,300,5.56626,Science Fiction
+10869,Heart of Africa,2,5,60,10,2004,779,5.50653,Economic
+10908,Minotaur Lords,2,2,30,12,2004,1160,5.69724,Fighting
+10915,Simply Suspects,2,6,15,8,2003,281,5.50981,Bluffing
+10962,Smugglers of the Galaxy,2,6,120,12,2004,266,5.49286,Economic
+10962,Smugglers of the Galaxy,2,6,120,12,2004,266,5.49286,Science Fiction
+11084,Jumbo & Co,3,6,15,8,2004,234,5.54064,Bluffing
+11106,"Warhammer 40,000: Rogue Trader",2,2,120,12,1987,883,5.87616,Science Fiction
+11147,Ea$y Money,2,4,0,9,1988,286,5.4505,Economic
+11170,Heroscape Master Set: Rise of the Valkyrie,2,4,90,8,2004,10775,7.11632,Fighting
+11170,Heroscape Master Set: Rise of the Valkyrie,2,4,90,8,2004,10775,7.11632,Science Fiction
+11415,Warriors,2,4,30,8,2004,1373,5.30927,Fighting
+11971,Cockroach Poker,2,6,20,8,2004,5368,6.25988,Bluffing
+11983,Fab Fib,3,10,30,10,2004,211,5.52429,Bluffing
+12002,Jambo,2,2,45,12,2004,8958,6.87455,Economic
+12157,Unanimo,3,8,30,10,1990,323,5.7596,Bluffing
+12166,Funkenschlag,2,6,180,12,2001,968,6.37131,Economic
+12188,Garden Competition,3,5,60,10,2004,187,5.7122,Bluffing
+12188,Garden Competition,3,5,60,10,2004,187,5.7122,Economic
+12194,Munchkin Bites!,3,6,90,10,2004,5136,5.8249,Fighting
+12283,Manifest Destiny,3,5,180,12,2005,850,5.8857,Economic
+12350,Battlestations,2,8,240,12,2004,1654,6.26096,Science Fiction
+12477,Bootleggers,3,6,120,14,2004,4000,6.38995,Economic
+12488,WARS Trading Card Game,2,2,45,12,2004,460,5.71254,Science Fiction
+12493,Twilight Imperium (Third Edition),3,6,300,12,2005,17315,7.70744,Science Fiction
+12623,UWO,2,2,45,10,2004,580,5.45369,Fighting
+12632,Goldbräu,3,4,60,10,2004,1656,6.01623,Economic
+12633,Mall World,3,5,80,12,2004,607,5.52071,Economic
+12681,Neuland,2,4,100,12,2004,2028,6.09547,Economic
+12750,1860: Railways on the Isle of Wight,2,4,240,13,2004,821,6.29191,Economic
+12761,Ys,2,4,90,12,2004,3206,6.53414,Bluffing
+12829,Ice Cream,3,5,30,6,2005,382,5.49961,Economic
+12963,Succession: Intrigue in the Royal Court,2,5,90,12,2004,530,5.54515,Bluffing
+12964,Space Station Assault,2,2,30,10,2004,358,5.51909,Science Fiction
+12995,Dungeon Twister,2,2,60,11,2004,6891,6.60889,Fighting
+13071,Age of Gods,3,6,90,12,2004,1268,5.8102,Bluffing
+13121,Kablamo,2,5,15,12,2004,364,5.44782,Fighting
+13122,Antiquity,2,4,180,14,2004,2262,7.15457,Economic
+13172,Kung Fu Fighting,2,6,30,10,2004,1092,5.7832,Fighting
+13285,Dungeonville,2,5,60,10,2004,574,5.3578,Economic
+13285,Dungeonville,2,5,60,10,2004,574,5.3578,Fighting
+13359,Leapfrog,1,6,20,7,2004,198,5.61746,Bluffing
+13362,"Warhammer 40,000 (fourth edition)",2,6,60,10,2004,1350,5.91898,Science Fiction
+13455,A Call to Arms: Babylon 5 Space Combat,2,8,120,12,2004,282,5.63995,Science Fiction
+13456,Vampire: Prince of the City,2,5,180,12,2006,935,5.78169,Bluffing
+13460,Obscura Tempora,2,6,45,10,2005,242,5.49206,Fighting
+13511,Ninja Versus Ninja,2,2,15,10,2008,1321,5.74747,Fighting
+13551,Oltre Mare,2,5,60,12,2004,3715,6.36712,Bluffing
+13884,The Scepter of Zavandor,2,6,90,10,2004,2515,6.57386,Economic
+13976,Feudo,2,4,90,12,2004,782,5.63269,Fighting
+14035,Piranha Pedro,2,6,30,8,2004,651,5.83151,Bluffing
+14038,Anachronism,2,4,5,12,2005,888,5.62756,Fighting
+14258,Blood Feud in New York,2,6,180,12,2004,1102,5.71741,Economic
+14258,Blood Feud in New York,2,6,180,12,2004,1102,5.71741,Fighting
+14403,"Warhammer 40,000: Battle for Macragge",2,2,120,12,2004,700,5.72499,Science Fiction
+14535,SPANC: Space Pirate Amazon Ninja Catgirls,2,4,60,14,2005,896,5.40055,Fighting
+14535,SPANC: Space Pirate Amazon Ninja Catgirls,2,4,60,14,2005,896,5.40055,Science Fiction
+14634,Homeworlds,2,6,60,10,2001,261,5.8629,Bluffing
+14634,Homeworlds,2,6,60,10,2001,261,5.8629,Fighting
+14634,Homeworlds,2,6,60,10,2001,261,5.8629,Science Fiction
+14736,Let's Kill,2,6,20,18,1997,715,5.4523,Bluffing
+14808,Marvel Heroes,2,4,120,12,2006,3005,6.11165,Fighting
+14992,Sword & Skull,2,5,60,10,2005,1327,5.47666,Fighting
+15069,Ekonos,2,6,60,0,2004,114,5.6102,Economic
+15156,Coloretto Amazonas,2,4,20,8,2005,858,5.59083,Bluffing
+15235,Legends of the Old West,2,8,45,12,2004,255,5.6781,Fighting
+15363,Nexus Ops,2,4,90,12,2005,9914,7.04137,Fighting
+15363,Nexus Ops,2,4,90,12,2005,9914,7.04137,Science Fiction
+15364,Vegas Showdown,3,5,75,12,2005,6230,6.96465,Economic
+15407,TATATA!,2,8,30,10,2005,253,5.52105,Fighting
+15471,Kokkelimonke Jubileum,3,8,60,12,2003,126,5.56362,Bluffing
+15474,Zombiaki,2,2,15,8,2003,862,5.74886,Fighting
+15512,Diamant,3,8,30,8,2005,4348,6.53358,Bluffing
+15804,Hidden Conflict,2,6,30,10,2005,315,5.35886,Fighting
+15985,Blood Bowl: Living Rulebook,2,2,120,12,2004,2831,7.27226,Fighting
+16144,Fruit Spy,3,5,20,8,2005,864,5.60528,Bluffing
+16144,Fruit Spy,3,5,20,8,2005,864,5.60528,Science Fiction
+16226,Gone Fishing!,2,2,40,10,2005,580,5.45784,Bluffing
+16873,Dividends,2,12,30,12,2005,125,5.488,Economic
+16933,Super Munchkin,3,6,90,10,2005,4456,5.73189,Fighting
+17030,Anno Domini: Lifestyle,2,8,30,10,1998,292,5.68104,Bluffing
+17053,Sleeping Queens,2,5,10,8,2005,3214,6.02524,Bluffing
+17119,Head-to-Head Poker,2,2,30,10,2005,317,5.52644,Bluffing
+17226,Descent: Journeys in the Dark,2,5,240,12,2005,12289,7.13784,Fighting
+17250,Monopoly: London,2,8,180,8,1972,185,5.36155,Economic
+17405,1846: The Race for the Midwest,3,5,240,14,2005,1281,6.52673,Economic
+17448,Rocketmen: Axis of Evil,2,4,30,8,2005,646,5.53416,Fighting
+17448,Rocketmen: Axis of Evil,2,4,30,8,2005,646,5.53416,Science Fiction
+17450,Argo,2,4,90,9,2016,223,5.59988,Science Fiction
+17710,Conquest of the Empire,2,6,240,10,2005,4622,6.39168,Fighting
+17804,Dungeons & Dragons Basic Game,2,5,90,12,2004,1514,5.98733,Fighting
+17807,Inquisitor,2,0,0,10,2001,291,5.51933,Science Fiction
+17820,Monopoly: 60th Anniversary Edition (1935-1995),2,8,180,8,1995,374,5.45992,Economic
+17851,Pizza Box Football,1,2,60,12,2005,1598,5.8995,Bluffing
+17857,18Scan,2,4,180,12,2005,166,5.76807,Economic
+17922,Anno Domini: Deutschland,2,8,30,10,2002,326,5.68289,Bluffing
+17923,Anno Domini: Flopps,2,8,30,10,2001,474,5.82058,Bluffing
+17997,Anno Domini: Sex & Crime,2,8,30,10,1998,491,5.79164,Bluffing
+18057,Anno Domini: Natur,2,8,30,10,1998,296,5.68668,Bluffing
+18212,Dungeons & Dragons Adventure Game,3,6,60,12,2000,393,5.58621,Fighting
+18243,Parthenon: Rise of the Aegean,3,6,120,12,2005,1039,5.90298,Economic
+18258,Mission: Red Planet,3,5,60,10,2005,3408,6.65118,Science Fiction
+18297,Experiment,3,6,30,8,2006,388,5.6145,Bluffing
+18400,Battle Beyond Space,3,4,60,13,2012,493,5.70303,Science Fiction
+18485,18MEX,3,5,210,14,2005,174,5.81741,Economic
+18602,Caylus,2,5,150,12,2005,21925,7.72754,Economic
+18824,WWE Raw Deal,2,8,15,10,2000,187,5.66081,Fighting
+18835,Credit Mobilier,2,5,60,13,2005,247,5.56058,Economic
+18895,Monopoly: 70th Anniversary Edition,2,8,180,8,2005,355,5.47268,Economic
+18901,Monopoly: Here and Now,2,8,180,8,2005,876,5.32509,Economic
+18931,Emira,3,5,100,12,2006,1414,5.70563,Economic
+18932,Siena,2,5,90,12,2005,1360,5.75506,Economic
+18961,Paranoia Mandatory Bonus Fun! Card Game,3,8,60,10,2005,633,5.62474,Science Fiction
+18963,En Garde!,2,6,45,10,2005,739,5.59578,Fighting
+18985,Battleground,2,2,60,12,2005,1569,6.15616,Fighting
+19028,Secret Tijuana Deathmatch,3,6,60,12,2005,506,5.50918,Fighting
+19040,ChiZo RISING,2,4,20,8,2005,353,5.51413,Fighting
+19074,Ostia,3,5,60,12,2005,908,5.61886,Economic
+19100,Hacienda,2,5,90,10,2005,3642,6.67591,Economic
+19120,High Stakes Drifter,2,8,0,8,2005,269,5.49195,Bluffing
+19237,Ca$h 'n Gun$,4,6,30,10,2005,7887,6.53352,Bluffing
+19237,Ca$h 'n Gun$,4,6,30,10,2005,7887,6.53352,Fighting
+19363,Havoc: The Hundred Years War,2,6,60,10,2005,838,6.02807,Bluffing
+19373,Monopoly: 65th Anniversary 1935-2000,2,8,180,8,2000,144,5.4467,Economic
+19392,Fruit Bandits,3,5,30,8,2005,124,5.52127,Bluffing
+19526,Elasund: The First City,2,4,90,10,2005,3597,6.37815,Economic
+19600,Antike,2,6,120,12,2005,3543,6.82207,Fighting
+19653,Helden in der Unterwelt,1,4,90,10,2005,334,5.60716,Fighting
+19727,The Great Space Race,3,6,180,10,2006,436,5.72298,Science Fiction
+19777,Indonesia,2,5,240,14,2005,3147,7.19121,Economic
+19857,Glory to Rome,2,5,60,12,2005,12156,7.33763,Economic
+20074,Railroad Dice 2,2,4,90,12,2005,315,5.65705,Economic
+20090,Double Agent,2,2,20,9,2005,407,5.55312,Bluffing
+20101,Kaivai,3,4,120,12,2005,433,5.89083,Economic
+20436,Stonehenge: An Anthology Board Game,2,5,60,10,2007,1204,5.46447,Science Fiction
+20437,Lords of Vegas,2,4,60,12,2010,5884,6.99018,Economic
+20445,Quest for the DragonLords (Second Edition),2,4,120,12,2006,232,5.57274,Fighting
+20551,Shogun,3,5,150,12,2006,10399,7.37946,Economic
+20645,Tenakee,3,5,15,9,2005,253,5.51027,Bluffing
+20646,1824,3,6,300,14,2005,145,5.75817,Economic
+20847,Take Stock,2,6,60,10,2006,837,5.62756,Economic
+20881,You Must Be an Idiot!,3,6,45,12,2005,250,5.54506,Bluffing
+21133,Infinity,2,2,60,12,2005,958,6.38733,Fighting
+21133,Infinity,2,2,60,12,2005,958,6.38733,Science Fiction
+21239,Rocketville,3,5,45,10,2006,1095,5.34544,Science Fiction
+21241,Neuroshima Hex!,1,4,30,13,2006,9911,7.22599,Fighting
+21241,Neuroshima Hex!,1,4,30,13,2006,9911,7.22599,Science Fiction
+21286,Parlay,2,6,30,9,2006,255,5.57318,Bluffing
+21414,To The Last Man!,2,3,120,12,2009,412,5.79899,Bluffing
+21436,18FL,2,4,150,12,2006,142,5.70767,Economic
+21464,California,2,5,60,10,2006,1780,5.94605,Economic
+21523,Runebound (Second Edition),1,6,240,12,2005,9185,6.67211,Fighting
+21613,Diabolo,3,5,30,8,2006,751,5.49539,Bluffing
+21654,Iliad,2,6,45,10,2006,2010,6.16959,Bluffing
+21666,Mad Scientist University,3,7,45,10,2005,341,5.54808,Science Fiction
+21829,Sherwood,2,4,45,9,2005,231,5.61295,Bluffing
+21892,Augsburg 1520,2,5,75,12,2006,1799,6.04186,Economic
+21954,Perikles,3,5,120,13,2006,2570,6.45051,Fighting
+22019,ZombieTown,3,6,60,12,2007,738,5.436,Fighting
+22192,HeroQuest Advanced Quest,2,5,90,10,1990,1631,6.21511,Fighting
+22237,Hart an der Grenze,3,6,40,10,2006,818,5.96264,Bluffing
+22266,Zig-Zag,2,4,25,8,2006,476,5.53155,Bluffing
+22345,Yspahan,2,4,60,8,2006,6727,6.93143,Economic
+22347,Pecking Order,2,2,20,8,1998,1192,5.9219,Bluffing
+22485,Terra Prime,2,5,60,10,2009,806,5.77823,Economic
+22485,Terra Prime,2,5,60,10,2009,806,5.77823,Science Fiction
+22826,Mutant Chronicles Collectible Miniatures Game,2,2,60,12,2008,805,5.62591,Fighting
+22826,Mutant Chronicles Collectible Miniatures Game,2,2,60,12,2008,805,5.62591,Science Fiction
+22948,Munchkin Impossible,3,6,90,10,2006,2142,5.70668,Fighting
+23094,Planet Steam,2,5,120,14,2008,4104,6.7243,Economic
+23094,Planet Steam,2,5,120,14,2008,4104,6.7243,Science Fiction
+23142,Mag·Blast (Third Edition),2,8,20,10,2006,2583,5.85861,Science Fiction
+23241,Gravediggers,2,5,25,10,2005,502,5.56838,Bluffing
+23387,Conan Collectible Card Game,2,9,30,12,2006,168,5.59584,Fighting
+23451,Space Dealer,3,4,30,10,2006,1712,6.17805,Science Fiction
+23540,1889,2,6,210,14,2005,359,6.20613,Economic
+23779,Enemy Chocolatier,2,6,60,10,2006,646,5.77633,Economic
+23817,1861: The Railways of the Russian Empire,3,6,360,12,2006,586,6.15891,Economic
+23919,China Rails,2,6,240,10,2007,502,5.81814,Economic
+23950,Viktory II,2,8,60,10,2006,526,5.91564,Fighting
+23964,The Game of Life (40th Anniversary Edition),2,6,30,9,1999,558,5.13867,Economic
+24002,Pirate King,2,4,120,8,2006,637,5.51336,Economic
+24068,Shadow Hunters,4,8,45,13,2005,6636,6.64165,Bluffing
+24168,Pirates: Quest for Davy Jones' Gold,2,4,0,8,2006,541,5.49541,Fighting
+24181,Imperial,2,6,180,13,2006,6098,7.37075,Economic
+24181,Imperial,2,6,180,13,2006,6098,7.37075,Fighting
+24225,Boxcars,2,6,180,13,1974,353,5.61983,Economic
+24491,Supernova,3,5,180,8,2008,644,5.65418,Science Fiction
+24703,Heroscape Marvel: The Conflict Begins,2,2,60,8,2007,3630,6.40475,Fighting
+24742,Cold War: CIA vs KGB,2,2,60,12,2007,5186,6.39956,Bluffing
+24762,Medici vs Strozzi,2,2,30,10,2006,1832,6.13599,Economic
+24764,Monopoly: The Mega Edition,2,8,90,8,2006,615,5.60813,Economic
+24795,Cleopatra's Caboose,3,5,105,10,2010,550,5.51425,Economic
+24827,Traders of Osaka,2,4,30,12,2006,3048,6.49679,Economic
+24878,AT-43 Initiation Set: Operation Damocles,2,2,60,12,2006,908,5.96418,Science Fiction
+25071,Munchkin Cthulhu,3,6,90,10,2007,7913,6.03679,Fighting
+25144,Dart Wars,2,5,30,8,2006,248,5.47199,Fighting
+25224,Hermagor,2,5,120,12,2006,1877,6.40023,Economic
+25261,Tannhäuser,2,10,120,13,2007,5084,6.15561,Fighting
+25261,Tannhäuser,2,10,120,13,2007,5084,6.15561,Science Fiction
+25554,Notre Dame,2,5,75,10,2007,9597,7.22571,Economic
+25605,Walhalla,3,4,60,12,2006,507,5.73814,Fighting
+25613,Through the Ages: A Story of Civilization,2,4,240,12,2006,15829,7.92789,Economic
+25677,Formidable Foes,2,6,90,10,2006,686,5.50739,Fighting
+25821,The Werewolves of Miller's Hollow,8,18,30,10,2001,10838,6.66985,Bluffing
+25920,Do You Worship Cthulhu?,5,30,30,12,2006,288,5.53127,Bluffing
+25937,Galactic Destiny,3,6,240,12,2007,350,5.56777,Science Fiction
+25951,The Castle of the Devil,4,8,40,10,2010,3019,6.16094,Bluffing
+25951,The Castle of the Devil,4,8,40,10,2010,3019,6.16094,Fighting
+26055,Twilight Imperium (second edition),2,6,240,12,2000,766,5.95029,Science Fiction
+26124,Faerie Tales,2,4,45,12,2006,459,5.55415,Bluffing
+26124,Faerie Tales,2,4,45,12,2006,459,5.55415,Fighting
+26156,Ausgerechnet Uppsala,2,6,20,10,2006,326,5.71797,Bluffing
+26205,Monopoly: Euro,2,8,120,8,2000,208,5.44085,Economic
+26566,Homesteaders,2,4,90,12,2009,3303,6.89958,Economic
+26747,Space Junkyard,2,4,30,10,2009,399,5.6021,Science Fiction
+26990,Container,3,5,90,0,2007,2665,6.77564,Economic
+27155,J'te Gage Que...,4,50,120,12,2006,698,5.5339,Bluffing
+27165,Age of Discovery,2,4,45,10,2007,1263,5.91723,Economic
+27173,Vikings,2,4,60,10,2007,6471,7.07086,Economic
+27266,Silent Death: The Next Millennium Deluxe Edition,2,8,120,10,1995,434,5.78442,Fighting
+27266,Silent Death: The Next Millennium Deluxe Edition,2,8,120,10,1995,434,5.78442,Science Fiction
+27298,Owner's Choice,2,5,45,10,2006,671,5.75597,Economic
+27364,Caylus Magna Carta,2,4,75,10,2007,6087,6.70718,Economic
+27385,Alchemist,2,5,50,10,2007,1339,5.93879,Economic
+27463,Galactic Emperor,3,6,90,12,2008,1336,6.18046,Science Fiction
+27532,Vineta,2,6,45,10,2008,1377,5.85592,Bluffing
+27627,Talisman (Revised 4th Edition),2,6,90,13,2007,13800,6.36169,Fighting
+27658,Warhammer Fantasy Battle: Battle For Skull Pass,2,2,120,0,2006,769,5.82884,Fighting
+27789,Rotterdam,2,4,60,8,2007,285,5.55367,Economic
+27800,The Market of Alturien,2,6,60,10,2007,702,5.46518,Economic
+27833,Steam,3,5,90,10,2009,8725,7.4558,Economic
+27976,Heroscape Master Set: Swarm of the Marro,2,4,60,8,2007,4179,6.90069,Fighting
+27976,Heroscape Master Set: Swarm of the Marro,2,4,60,8,2007,4179,6.90069,Science Fiction
+28047,Covert Action,4,14,20,10,2007,441,5.43469,Bluffing
+28143,Race for the Galaxy,2,4,60,12,2007,40837,7.68273,Economic
+28143,Race for the Galaxy,2,4,60,12,2007,40837,7.68273,Science Fiction
+28218,Cash-a-Catch,3,5,30,8,2007,1001,5.87789,Economic
+28246,Zanzibar,2,5,45,10,2007,216,5.5076599999999996,Economic
+28259,Cutthroat Caverns,3,6,90,12,2007,5562,6.38107,Fighting
+28620,Phoenicia,2,5,90,12,2007,1971,6.21053,Economic
+28720,Brass: Lancashire,2,4,180,14,2007,11109,7.80918,Economic
+28723,Before the Wind,2,4,75,10,2007,1713,6.20033,Economic
+28739,Garibaldi: The Escape,2,6,60,10,2007,524,5.81716,Bluffing
+29030,Chicago Poker,2,6,45,10,2007,666,5.63328,Bluffing
+29078,Frontiers,2,2,45,10,2007,1041,5.63099,Science Fiction
+29096,Letter of Marque,3,6,20,8,2009,1236,5.25293,Bluffing
+29109,Dust,2,6,240,12,2007,2412,6.0588,Science Fiction
+29118,Exalted: War for the Throne,2,5,180,12,2007,349,5.50899,Fighting
+29198,Inn-Fighting,3,6,30,12,2007,1701,5.67162,Fighting
+29352,Lupusburg,4,8,40,8,2008,366,5.52554,Bluffing
+29368,Last Night on Earth: The Zombie Game,2,6,90,12,2007,15558,6.83987,Fighting
+29581,Tomb,1,6,90,12,2008,1580,5.97334,Fighting
+29602,Okko: Era of the Asagiri,2,2,45,12,2008,1728,5.96532,Fighting
+29626,Robotics,3,5,60,12,2007,314,5.49533,Science Fiction
+29676,Monopoly: Tropical Tycoon DVD Game,3,5,180,8,2007,423,5.52556,Economic
+29678,Munchkin Quest,2,4,180,12,2008,6203,5.76009,Fighting
+29972,El Capitán,2,5,90,12,2007,2196,6.34532,Economic
+30057,Burger Joint,2,2,30,10,2009,670,5.67496,Economic
+30166,"The Good, the Bad, and the Munchkin",3,6,90,10,2007,2475,5.83202,Fighting
+30324,Ca$h 'n Gun$: Live,8,20,0,10,2007,890,5.72351,Bluffing
+30324,Ca$h 'n Gun$: Live,8,20,0,10,2007,890,5.72351,Fighting
+30328,Battleground: Crossbows & Catapults War Chest Starter Set,2,2,60,6,2007,947,5.83953,Fighting
+30367,Perry Rhodan: The Cosmic League,2,2,30,10,2007,2431,6.30611,Economic
+30367,Perry Rhodan: The Cosmic League,2,2,30,10,2007,2431,6.30611,Science Fiction
+30370,E.T.I.: Estimated Time to Invasion,3,6,90,12,2008,198,5.53356,Science Fiction
+30379,Change Horses,2,5,30,8,2008,582,5.46552,Bluffing
+30380,Cuba,2,5,120,10,2007,7185,6.95889,Economic
+30381,Hamburgum,2,5,75,12,2007,2950,6.68987,Economic
+30483,Antler Island,3,4,45,10,2007,714,5.73088,Bluffing
+30483,Antler Island,3,4,45,10,2007,714,5.73088,Fighting
+30539,Get Bit!,3,6,20,7,2007,7534,6.07532,Bluffing
+30804,Song of Blades and Heroes,2,6,45,12,2007,611,6.01725,Fighting
+30932,Lascaux,3,5,25,8,2007,1023,5.92843,Bluffing
+30933,BANG! The Bullet!,3,8,40,8,2007,9068,6.69343,Bluffing
+30933,BANG! The Bullet!,3,8,40,8,2007,9068,6.69343,Fighting
+31056,Micro Mutants: Evolution,2,4,30,10,2007,1444,6.04362,Fighting
+31260,Agricola,1,5,150,12,2007,58016,7.9634,Economic
+31336,Corunea,2,4,30,15,2008,371,5.59449,Fighting
+31380,Modern Society,3,5,60,10,2009,352,5.5153,Economic
+31481,Galaxy Trucker,2,4,60,10,2007,20650,7.37214,Science Fiction
+31483,Constantinopolis,2,5,90,12,2010,2223,6.32508,Economic
+31545,Pow Wow,3,8,30,0,2006,544,5.95033,Bluffing
+31547,Kleine Helden,2,5,45,0,2007,311,5.58541,Fighting
+31594,In the Year of the Dragon,2,5,100,12,2007,6876,7.21802,Economic
+31612,Sultan,2,5,45,8,2007,559,5.64907,Bluffing
+31722,Steam over Holland,2,5,180,0,2007,476,6.10043,Economic
+31730,Chicago Express,2,6,60,12,2007,6222,6.99756,Economic
+31759,Battletech Introductory Box Set,2,6,120,14,2002,1836,6.37508,Fighting
+31759,Battletech Introductory Box Set,2,6,120,14,2002,1836,6.37508,Science Fiction
+31920,Munchkin Booty,3,6,90,10,2008,3479,5.93924,Fighting
+32002,Forged in Steel,2,4,120,13,2016,348,5.79051,Economic
+32032,Monopoly: Electronic Banking,2,6,160,0,2007,1137,5.32585,Economic
+32114,Merchants,2,4,30,12,2007,1023,5.97439,Economic
+32125,Felix: The Cat in the Sack,3,5,20,8,2007,4507,6.38675,Bluffing
+32146,Trailer Park Wars,2,6,0,13,2007,675,5.60717,Economic
+32164,Borneo,3,5,45,10,2007,341,5.51461,Economic
+32165,Darjeeling,2,5,60,12,2007,1276,6.09127,Economic
+32412,Palastgeflüster,3,5,45,10,2007,2315,6.32778,Bluffing
+32424,1848: Australia,3,6,360,0,2007,151,5.82157,Economic
+32469,Make You Gunfighters,3,7,30,12,2007,201,5.59926,Fighting
+32495,Murder City,2,5,120,12,2007,338,5.48805,Bluffing
+32495,Murder City,2,5,120,12,2007,338,5.48805,Science Fiction
+32666,Wealth of Nations,3,6,120,0,2008,1639,6.39728,Economic
+32674,Monsterpocalypse,2,4,60,12,2008,1609,6.2905,Fighting
+32674,Monsterpocalypse,2,4,60,12,2008,1609,6.2905,Science Fiction
+32944,Neue Heimat,2,5,45,10,2007,488,6.171,Economic
+32969,Innsmouth Escape,2,5,30,12,2008,491,5.53257,Fighting
+32992,Tàin,2,4,30,8,2007,126,5.47473,Bluffing
+33040,Humans!!!,2,6,60,0,2008,1486,5.5974,Fighting
+33107,Senji,3,6,90,0,2008,1758,6.10716,Bluffing
+33434,Funkenschlag: EnBW,2,6,120,0,2007,282,5.94165,Economic
+33468,Zombie in my Pocket,1,1,5,11,2007,1991,5.94123,Fighting
+33732,Tulipmania 1637,3,5,60,0,2009,878,5.77099,Economic
+33759,Omega Centauri,2,4,60,12,2014,335,5.74089,Science Fiction
+33876,Killer Bunnies and the Journey to Jupiter,2,6,90,12,2008,683,5.49153,Fighting
+33876,Killer Bunnies and the Journey to Jupiter,2,6,90,12,2008,683,5.49153,Science Fiction
+33911,Bacchus' Banquet,3,5,30,8,2008,736,5.68848,Bluffing
+34084,Witch's Brew,3,5,45,9,2008,3325,6.70003,Bluffing
+34152,Grind,2,2,60,14,2009,801,5.66693,Science Fiction
+34219,Biblios,2,4,30,10,2007,12727,7.08213,Economic
+34255,Deukalion,2,4,60,10,2008,411,5.57444,Fighting
+34373,Tiki Topple,2,4,20,10,2008,1857,6.03658,Bluffing
+34871,Ventura,2,4,90,13,2011,1347,5.74206,Fighting
+34887,Revolution!,3,4,60,10,2009,4108,6.45783,Bluffing
+35017,Chaos Isle: Zombi Deck,1,6,30,13,2008,299,5.5247,Fighting
+35122,"Yetisburg: Titanic Battles in History, Vol. 1",2,2,30,0,2008,521,5.54207,Fighting
+35248,Batavia,3,5,60,10,2008,1619,5.96209,Economic
+35285,German Railways,3,5,60,12,2008,1158,6.10359,Economic
+35289,The Dutch Golden Age,3,4,60,10,2008,951,5.81604,Economic
+35369,Martian Fluxx,2,6,30,8,2009,1773,5.81559,Science Fiction
+35376,Bandits,2,6,45,10,2008,304,5.54454,Fighting
+35570,Tinners' Trail,3,4,90,13,2008,3567,6.93348,Economic
+35599,Witchcraft,2,2,30,0,2008,265,5.69654,Fighting
+35677,Le Havre,1,5,150,12,2008,19738,7.80935,Economic
+35706,Carpe Astra,2,4,60,12,2008,785,5.65612,Science Fiction
+35801,Lungarno,2,5,45,8,2008,608,5.66741,Economic
+35812,Wild Vikings,2,5,15,6,2008,268,5.57568,Economic
+35815,A Touch of Evil: The Supernatural Game,2,8,90,12,2008,5635,6.63768,Fighting
+36367,Dust Tactics,2,4,30,0,2010,1249,6.13162,Science Fiction
+36424,"Gulf, Mobile & Ohio",3,5,60,0,2008,186,5.69435,Economic
+36659,Free Trader,1,1,45,0,2008,305,5.60861,Fighting
+36659,Free Trader,1,1,45,0,2008,305,5.60861,Science Fiction
+36661,One More Barrel,3,5,90,12,2008,268,5.60339,Economic
+36811,The Princes of Machu Picchu,2,5,90,12,2008,1609,6.42247,Economic
+36888,After the Flood,3,3,180,13,2008,1025,6.17513,Fighting
+36932,Claustrophobia,2,2,45,14,2009,8012,7.27981,Fighting
+36986,All Things Zombie: The Boardgame,1,6,40,12,2010,1155,5.74448,Fighting
+36986,All Things Zombie: The Boardgame,1,6,40,12,2010,1155,5.74448,Science Fiction
+37046,Ghost Stories,1,4,60,12,2008,18293,7.24981,Fighting
+37165,"Warhammer 40,000 (fifth edition)",2,12,60,0,2008,1475,6.08604,Fighting
+37165,"Warhammer 40,000 (fifth edition)",2,12,60,0,2008,1475,6.08604,Science Fiction
+37184,Dungeons & Dragons Miniatures Game (second edition),2,2,60,12,2008,426,5.68195,Fighting
+37345,Circus Maximus,3,5,45,10,2008,447,5.57942,Economic
+37362,Robot Master,1,4,15,8,2008,309,5.65593,Science Fiction
+37672,"Warhammer 40,000: Assault On Black Reach",2,0,240,0,2008,699,5.81973,Fighting
+37672,"Warhammer 40,000: Assault On Black Reach",2,0,240,0,2008,699,5.81973,Science Fiction
+37680,The Heavens of Olympus,3,5,60,13,2011,335,5.53287,Economic
+37738,Master Builder,2,4,60,10,2008,640,5.65931,Economic
+37759,Incan Gold,3,8,20,8,2006,9986,6.70503,Bluffing
+37906,Firestorm Armada,2,4,90,12,2009,372,5.73916,Science Fiction
+37907,Diamonds Club,2,4,75,10,2008,1334,6.49488,Economic
+37919,Ascending Empires,2,4,75,10,2011,1773,6.62742,Fighting
+37919,Ascending Empires,2,4,75,10,2011,1773,6.62742,Science Fiction
+37982,God Dice,2,4,30,0,2008,270,5.62906,Fighting
+38032,Byzanz,3,6,45,8,2008,861,5.96899,Economic
+38159,Ultimate Werewolf: Ultimate Edition,5,68,90,8,2008,5162,6.7353,Bluffing
+38227,Wolsung: The Boardgame,2,4,30,0,2008,281,5.48735,Science Fiction
+38343,Ad Astra,3,5,60,13,2009,2616,6.52234,Science Fiction
+38400,War for Edaðh,1,4,30,0,2008,423,5.59654,Fighting
+38453,Space Alert,1,5,30,12,2008,15913,7.36278,Science Fiction
+38707,Bushido: Der Weg des Kriegers,3,5,90,12,2008,593,5.65874,Bluffing
+38707,Bushido: Der Weg des Kriegers,3,5,90,12,2008,593,5.65874,Fighting
+38765,Ground Floor,2,6,150,12,2012,2162,6.49694,Economic
+38863,Hab & Gut,3,5,45,10,2008,1399,6.48366,Economic
+38872,Jet Set,2,6,120,12,2008,973,6.11394,Economic
+38980,Mecanisburgo,2,6,120,14,2008,491,5.72448,Economic
+38980,Mecanisburgo,2,6,120,14,2008,491,5.72448,Science Fiction
+38986,18NEB,2,4,180,12,2010,132,5.75741,Economic
+39219,Turandot,2,5,15,0,2009,191,5.55364,Bluffing
+39242,Black Friday,2,5,55,12,2010,1398,6.10291,Economic
+39336,Mégawatts,2,6,120,14,2008,532,6.1502,Economic
+39339,Android,3,5,180,13,2008,5386,6.46045,Science Fiction
+39351,Automobile,3,5,120,12,2009,4681,7.0668,Economic
+39463,Cosmic Encounter,3,5,120,12,2008,22798,7.46185,Bluffing
+39463,Cosmic Encounter,3,5,120,12,2008,22798,7.46185,Science Fiction
+39683,At the Gates of Loyang,1,4,120,10,2009,8952,7.16247,Economic
+39684,Merkator,1,4,90,12,2010,2721,6.5672,Economic
+39798,Deadlands: The Battle for Slaughter Gulch,2,6,60,0,2009,692,5.58797,Fighting
+39938,Carson City,2,5,90,12,2009,5122,7.05451,Economic
+39994,Party Playoff,4,99,30,0,2008,344,5.56886,Bluffing
+40214,Bombay,2,5,45,10,2009,1926,6.03143,Economic
+40235,Bridge Troll,3,6,45,10,2009,915,5.73619,Bluffing
+40235,Bridge Troll,3,6,45,10,2009,915,5.73619,Economic
+40276,Masters of Venice,2,5,90,15,2009,901,5.91168,Economic
+40347,Monopoly: Here and Now – The World Edition,2,6,60,8,2008,467,5.42088,Economic
+40398,Monopoly Deal Card Game,2,5,15,8,2008,10071,6.08774,Economic
+40416,Martians!!!,2,6,60,13,2009,411,5.51884,Fighting
+40416,Martians!!!,2,6,60,13,2009,411,5.51884,Science Fiction
+40432,Stratego (Revised Edition),2,2,30,8,2008,1203,5.72951,Bluffing
+40432,Stratego (Revised Edition),2,2,30,8,2008,1203,5.72951,Fighting
+40440,Sector 41,2,4,90,12,2009,255,5.53872,Science Fiction
+40529,Cosmic Encounter,3,6,60,0,1991,1264,6.29578,Bluffing
+40529,Cosmic Encounter,3,6,60,0,1991,1264,6.29578,Science Fiction
+40531,Cosmic Encounter,2,4,60,0,2000,2092,5.97202,Bluffing
+40531,Cosmic Encounter,2,4,60,0,2000,2092,5.97202,Science Fiction
+40602,Rabbit Hunt,2,4,20,0,2009,114,5.55756,Bluffing
+40603,Incursion,2,2,120,0,2009,852,5.93858,Science Fiction
+40628,Finca,2,4,45,10,2009,5248,6.82529,Economic
+40692,Small World,2,5,80,8,2009,54589,7.27719,Fighting
+40765,Clash of Cultures,2,4,240,14,2012,4854,7.25465,Economic
+40871,Crunch: The Game for Utter Bankers,2,4,45,12,2009,688,5.54068,Economic
+41019,Sherwood Forest,3,6,60,9,2009,482,5.5878,Bluffing
+41019,Sherwood Forest,3,6,60,9,2009,482,5.5878,Fighting
+41032,Galaxy's Edge,3,4,60,10,2009,265,5.59699,Science Fiction
+41054,You Robot,4,10,20,6,2009,510,5.59936,Science Fiction
+41090,Magnate,2,2,45,13,2008,199,5.80052,Economic
+41114,The Resistance,5,10,30,13,2009,37969,7.32299,Bluffing
+41114,The Resistance,5,10,30,13,2009,37969,7.32299,Science Fiction
+41186,Monopoly City,2,6,75,8,2009,1774,5.53194,Economic
+41372,Zombie in my Pocket,1,8,30,11,2010,918,5.62614,Fighting
+41541,Are You the Traitor?,4,10,30,13,2009,1211,5.33431,Bluffing
+41612,Struggle for the Galactic Empire,1,1,240,14,2009,725,5.71769,Science Fiction
+41636,Abandon Ship,3,7,30,10,2009,1061,5.87884,Bluffing
+41749,American Rails,3,5,90,14,2009,1029,6.38269,Economic
+41863,Axis & Allies: 1942,2,5,240,12,2009,3545,6.2945,Economic
+41933,Arctic Scavengers,2,5,60,12,2009,2847,6.51559,Bluffing
+41933,Arctic Scavengers,2,5,60,12,2009,2847,6.51559,Fighting
+42050,Eurobusiness,2,5,90,14,1983,329,5.30966,Economic
+42052,Vinhos,2,4,135,12,2010,4088,7.11061,Economic
+42111,Fzzzt!,2,4,30,8,2009,1171,5.86703,Science Fiction
+42112,Mob Ties: The Board Game,3,6,90,13,2011,196,5.64327,Bluffing
+42124,Dungeon Twister 2: Prison,1,2,60,10,2009,2210,6.47169,Fighting
+42244,Martinique,2,2,30,10,2009,1598,5.8953,Bluffing
+42360,Space Pirates,2,4,60,12,2009,379,5.49667,Science Fiction
+42444,Batt'l Kha'os,2,2,30,10,2009,1135,5.84277,Fighting
+42490,Pony Express,3,5,45,8,2009,799,5.90157,Bluffing
+42743,Opera,2,4,90,12,2009,1124,6.04979,Economic
+42929,Martian Rails,2,6,180,12,2009,616,5.91484,Economic
+42929,Martian Rails,2,6,180,12,2009,616,5.91484,Science Fiction
+42939,Invasion from Outer Space: The Martian Game,2,6,90,12,2010,1746,6.21457,Fighting
+42939,Invasion from Outer Space: The Martian Game,2,6,90,12,2010,1746,6.21457,Science Fiction
+42968,Pressure Matrix,2,5,45,10,2010,274,5.39298,Science Fiction
+43111,Chaos in the Old World,3,4,120,13,2009,12150,7.48164,Fighting
+43136,Chunky Fighters,2,99,10,6,2009,291,5.59476,Fighting
+43249,The BoardGameGeek Game,3,6,60,8,2009,1061,5.71829,Bluffing
+43249,The BoardGameGeek Game,3,6,60,8,2009,1061,5.71829,Economic
+43262,Neuroshima Hex! Duel,2,2,30,10,2009,1695,6.43524,Fighting
+43262,Neuroshima Hex! Duel,2,2,30,10,2009,1695,6.43524,Science Fiction
+43307,Baltimore & Ohio,3,6,120,13,2009,827,6.15185,Economic
+43320,Tomb: Cryptmaster,2,6,120,13,2009,1040,5.88442,Fighting
+43443,Castle Panic,1,6,60,10,2009,16494,6.57094,Fighting
+43691,Delve: The Dice Game,1,1,20,0,2009,544,5.76675,Fighting
+44163,Power Grid: Factory Manager,2,5,60,12,2009,5805,6.68525,Economic
+45134,Arcana,2,4,60,13,2009,3031,5.91155,Bluffing
+45315,Dungeon Lords,2,4,90,12,2009,11691,7.27789,Economic
+45315,Dungeon Lords,2,4,90,12,2009,11691,7.27789,Fighting
+45319,Alcazar,2,5,60,10,2009,542,5.61955,Economic
+45986,Stronghold,2,4,120,10,2009,4875,6.85219,Fighting
+46782,Rush n' Crush,3,6,60,12,2009,1650,5.88413,Science Fiction
+46807,Infinite City,2,6,45,10,2009,1738,5.95009,Science Fiction
+47046,Gambit 7,3,21,15,7,2008,562,5.9321,Bluffing
+47055,High Frontier,2,5,180,12,2010,2369,6.62908,Economic
+47055,High Frontier,2,5,180,12,2010,2369,6.62908,Science Fiction
+47130,Shootin' Ladders: Frag Fest,3,8,60,13,2009,284,5.55184,Fighting
+47185,Warhammer: Invasion,2,2,45,13,2009,6664,6.93214,Fighting
+48726,Alien Frontiers,2,4,90,13,2010,11158,7.33009,Science Fiction
+50750,Belfort,2,5,120,12,2011,5882,7.02719,Economic
+50768,Ninjato,2,4,60,12,2011,2574,6.7512,Fighting
+52461,Legacy: The Testament of Duke de Crecy,1,4,60,8,2013,4048,6.85085,Economic
+53168,Triumvirate,2,2,15,12,2009,975,6.05523,Bluffing
+53953,Thunderstone,1,5,60,12,2009,9500,6.8404,Fighting
+54138,Imperial 2030,2,6,120,12,2009,4146,7.29831,Economic
+54138,Imperial 2030,2,6,120,12,2009,4146,7.29831,Fighting
+54361,Heroscape Master Set:  Battle for the Underdark,2,2,60,8,2010,2335,6.43426,Fighting
+54361,Heroscape Master Set:  Battle for the Underdark,2,2,60,8,2010,2335,6.43426,Science Fiction
+54433,Nanuk,5,8,45,0,2009,856,5.7906,Bluffing
+54625,Space Hulk (third edition),2,2,60,12,2009,8269,7.22555,Fighting
+54625,Space Hulk (third edition),2,2,60,12,2009,8269,7.22555,Science Fiction
+54643,Skyline 3000,2,4,60,10,2009,1334,5.79748,Science Fiction
+54998,Cyclades,2,5,90,13,2009,12936,7.35341,Fighting
+55492,MegaCorps,3,6,75,13,2009,594,5.52311,Economic
+55492,MegaCorps,3,6,75,13,2009,594,5.52311,Science Fiction
+55597,Chaos Marauders (second edition),2,4,30,13,2009,1605,5.51212,Fighting
+55600,Shipyard,2,4,120,11,2009,3689,6.92744,Economic
+55601,Sneaks & Snitches,2,5,20,9,2010,1095,5.8986,Bluffing
+55763,Mister X,2,6,60,10,2009,458,5.73718,Bluffing
+55829,Axis & Allies Pacific 1940,2,4,360,12,2009,2486,6.43141,Economic
+55829,Axis & Allies Pacific 1940,2,4,360,12,2009,2486,6.43141,Fighting
+55842,Namibia,3,4,120,12,2010,160,5.58781,Economic
+55952,Greed Incorporated,3,5,180,14,2009,896,6.20486,Economic
+56128,Zombiaki II: Attack on Moscow,2,2,30,8,2010,775,5.73696,Fighting
+56707,Colonia,3,6,120,12,2009,1338,6.07604,Economic
+56758,BasketBoss,2,5,50,10,2009,550,5.84161,Economic
+56786,Kuhhandel Master,2,6,60,10,2009,1282,6.02751,Bluffing
+56885,The Werewolves of Miller's Hollow: The Village,8,18,30,8,2009,1290,6.07952,Bluffing
+57037,Kingpin,2,2,30,15,2009,206,5.59336,Fighting
+57390,Catacombs,2,5,90,12,2010,3468,6.7266,Fighting
+57803,Forlorn: Hope,1,2,40,13,2010,369,5.66613,Fighting
+57803,Forlorn: Hope,1,2,40,13,2010,369,5.66613,Science Fiction
+57925,Havana,2,4,45,10,2009,3115,6.51243,Bluffing
+57998,Boże Igrzysko,3,4,120,12,2010,215,5.88237,Fighting
+58281,Summoner Wars,2,4,60,9,2009,4667,7.01071,Fighting
+58886,Alba Longa,2,5,90,12,2011,727,5.68846,Economic
+59223,Diego Drachenzahn,2,4,15,5,2009,322,5.60876,Bluffing
+59294,Runewars,2,4,180,14,2010,8306,7.35891,Fighting
+59429,Dark Darker Darkest,2,5,120,12,2013,1824,5.87485,Fighting
+59936,Battle Merchants,2,4,120,10,2014,474,5.79081,Economic
+59946,Dungeons & Dragons: Castle Ravenloft Board Game,1,5,60,12,2010,11261,6.74484,Fighting
+59959,Letters from Whitechapel,2,6,120,13,2011,12123,7.26526,Bluffing
+61692,Axis & Allies Europe 1940,2,6,360,12,2010,2512,6.53455,Economic
+61692,Axis & Allies Europe 1940,2,6,360,12,2010,2512,6.53455,Fighting
+62220,Urban Sprawl,2,4,180,12,2011,2644,6.34907,Economic
+62809,Jump Gate,2,6,45,12,2010,225,5.6104,Science Fiction
+62853,JAB: Realtime Boxing,2,2,15,10,2011,1718,5.91348,Fighting
+63027,Leviathans,2,8,90,13,2012,644,5.79321,Science Fiction
+63091,Space Hulk (second edition),2,2,90,10,1996,767,6.12379,Fighting
+63091,Space Hulk (second edition),2,2,90,10,1996,767,6.12379,Science Fiction
+63167,Undermining,2,5,45,8,2011,829,5.90552,Science Fiction
+63395,Chocolatl,3,5,45,8,2010,504,5.71821,Bluffing
+63539,Lupus in Tabula,8,24,40,8,2001,1241,5.8643,Bluffing
+63543,Horus Heresy,2,2,135,13,2010,3427,6.42004,Science Fiction
+63628,The Manhattan Project,2,5,120,13,2012,8842,7.2373,Economic
+63628,The Manhattan Project,2,5,120,13,2012,8842,7.2373,Fighting
+63740,Hotel Samoa,3,6,60,10,2010,1610,5.90227,Economic
+63759,Seeland,2,4,60,9,2010,2322,6.38492,Economic
+65200,Asteroyds,2,6,30,10,2010,1565,5.97468,Science Fiction
+65225,Road Kill Rally,3,6,90,12,2010,1738,5.94172,Fighting
+65334,Flash Duel,2,2,5,0,2010,363,5.76304,Fighting
+65515,Nuns on the Run,2,8,45,10,2010,4193,6.31056,Bluffing
+65532,Defenders of the Realm,1,4,90,13,2010,5962,7.02643,Fighting
+65534,The Ares Project,2,4,60,13,2011,1749,6.00247,Fighting
+65534,The Ares Project,2,4,60,13,2011,1749,6.00247,Science Fiction
+65581,Hamunaptra: Aventures dans la Grande Pyramide,2,8,60,8,2010,188,5.49899,Fighting
+65781,London,2,4,90,13,2010,5294,7.14189,Economic
+65889,Seven Card Samurai,2,8,30,9,2010,315,5.50219,Fighting
+65901,Age of Industry,2,5,120,13,2010,3011,6.94217,Economic
+66076,Industry,3,4,75,10,2010,873,5.71986,Economic
+66171,Dragonheart,2,2,30,13,2010,2895,6.30576,Bluffing
+66171,Dragonheart,2,2,30,13,2010,2895,6.30576,Fighting
+66198,U-Build Monopoly,2,6,30,8,2010,880,5.45386,Economic
+66213,Monopoly Revolution,2,6,60,8,2010,277,5.45111,Economic
+66214,Samarkand: Routes to Riches,2,5,45,8,2010,1537,6.34817,Economic
+66362,Glen More,2,5,70,10,2010,7215,7.14273,Economic
+66505,The Speicherstadt,2,5,45,8,2010,4153,6.77778,Economic
+66589,Navegador,2,5,90,12,2010,5852,7.31007,Economic
+66665,Recicle: Tempos de Crise,2,4,120,14,2010,204,5.70011,Economic
+66781,Space Infantry,1,2,60,0,2011,709,5.82833,Science Fiction
+66837,1862: Railway Mania in the Eastern Counties,2,8,300,12,2013,399,5.95196,Economic
+66849,Safranito,2,4,45,10,2010,1354,6.25428,Economic
+67148,Ultimate Werewolf: Compact Edition,5,34,45,8,2010,376,5.72891,Bluffing
+67178,Water Lily,2,4,20,7,2010,486,5.80579,Bluffing
+67361,Rails of New England,2,5,180,13,2011,406,5.69373,Economic
+67888,Lords of Scotland,2,5,35,12,2010,2225,6.22648,Fighting
+67917,Colonialism,2,4,90,12,2013,554,5.77058,Bluffing
+67919,The Message,3,9,60,15,2009,519,5.81083,Bluffing
+67972,Workshop of the World,3,5,90,14,2010,184,5.61062,Economic
+68425,Eminent Domain,2,4,45,10,2011,10101,6.94627,Science Fiction
+68603,Popular Front,2,6,90,12,2010,358,5.83094,Bluffing
+69105,Toledo 1085,2,4,45,12,2010,421,5.55839,Bluffing
+69120,Cadwallon: City of Thieves,2,4,45,10,2010,2432,5.95815,Fighting
+69278,Nuklear Winter '68,2,3,60,12,2012,590,5.8126,Science Fiction
+69552,Panic Station,4,6,40,10,2011,3815,5.89369,Bluffing
+69552,Panic Station,4,6,40,10,2011,3815,5.89369,Science Fiction
+69601,1880: China,3,7,300,13,2010,224,5.93497,Economic
+69779,Polis: Fight for the Hegemony,2,2,120,12,2012,2704,6.87779,Economic
+69779,Polis: Fight for the Hegemony,2,2,120,12,2012,2704,6.87779,Fighting
+70149,Ora et Labora,1,4,180,13,2011,9359,7.52434,Economic
+70324,Duel of the Giants: Eastern Front,2,4,30,10,2010,767,5.62932,Bluffing
+71061,DungeonQuest (third edition),1,4,90,13,2010,3909,6.3236,Fighting
+71272,Hornet,2,5,45,10,2010,924,5.72524,Bluffing
+71593,Charon Inc.,2,5,60,13,2010,723,5.78966,Science Fiction
+71668,After Pablo,2,4,120,17,2010,150,5.77164,Economic
+71668,After Pablo,2,4,120,17,2010,150,5.77164,Fighting
+71721,Space Hulk: Death Angel – The Card Game,1,6,30,13,2010,17194,6.81293,Fighting
+71721,Space Hulk: Death Angel – The Card Game,1,6,30,13,2010,17194,6.81293,Science Fiction
+71882,Conquest of Planet Earth: The Space Alien Game,1,4,60,12,2010,2392,6.35301,Science Fiction
+72125,Eclipse,2,6,200,14,2011,22299,7.85826,Fighting
+72125,Eclipse,2,6,200,14,2011,22299,7.85826,Science Fiction
+72204,Alien Uprising,1,5,90,13,2014,734,5.66036,Science Fiction
+72225,CO₂,1,5,120,12,2012,3779,6.83085,Economic
+72269,Toscana,2,5,45,10,2010,145,5.62634,Economic
+72287,Mr. Jack Pocket,2,2,15,14,2010,8426,6.76096,Bluffing
+72535,Exile Sun,2,6,180,14,2012,456,5.49897,Fighting
+72535,Exile Sun,2,6,180,14,2012,456,5.49897,Science Fiction
+73171,Earth Reborn,2,4,180,13,2010,5324,7.16659,Bluffing
+73171,Earth Reborn,2,4,180,13,2010,5324,7.16659,Fighting
+73171,Earth Reborn,2,4,180,13,2010,5324,7.16659,Science Fiction
+73313,Elements,2,2,20,8,2010,349,5.82782,Bluffing
+73316,Magnum Sal,2,4,90,10,2010,1409,6.38636,Economic
+73369,51st State,2,4,90,10,2010,3296,6.52708,Economic
+73369,51st State,2,4,90,10,2010,3296,6.52708,Science Fiction
+73439,Troyes,1,4,90,12,2010,11817,7.57803,Economic
+73472,Pirates vs. Dinosaurs,2,6,90,11,2013,407,5.62892,Fighting
+74102,Der Pate,2,4,60,12,2010,447,5.7006,Economic
+74233,Fictionaire,4,7,20,10,2010,626,5.61768,Bluffing
+74408,Warhammer Fantasy Battle: The Island of Blood,2,2,180,8,2010,404,5.68723,Fighting
+75091,Norenberc,2,5,90,12,2010,1022,6.17979,Economic
+75212,Grand Cru,2,5,90,12,2010,1140,6.19672,Economic
+75223,Utopia Engine,1,1,60,0,2010,805,5.89316,Science Fiction
+75333,Target Earth,1,4,90,12,2010,482,5.79215,Science Fiction
+75358,Paris Connection,3,6,30,8,2010,2290,6.33628,Economic
+75360,Texas & Pacific,2,6,60,0,2010,155,5.63884,Economic
+75441,Master of Economy,2,4,120,14,2010,221,5.66434,Economic
+75449,Firenze,2,4,60,12,2010,1740,6.65033,Economic
+75782,The Phantom League,2,6,90,12,2010,538,5.71417,Fighting
+75782,The Phantom League,2,6,90,12,2010,538,5.71417,Science Fiction
+76150,Revolver,2,2,45,12,2011,2118,6.28975,Fighting
+76417,Poseidon,2,5,120,12,2010,1366,6.30946,Economic
+76546,Expedition: Congo River 1884,2,4,60,10,2012,215,5.49252,Bluffing
+76684,Launch Pad,2,4,45,10,2010,389,5.51849,Science Fiction
+78733,Key Market,2,4,90,12,2010,655,6.27206,Economic
+79312,Zombie Survival: The Board Game,1,4,90,13,2010,509,5.54623,Fighting
+80771,Dungeon Raiders,3,5,60,8,2011,1705,6.11799,Bluffing
+80771,Dungeon Raiders,3,5,60,8,2011,1705,6.11799,Fighting
+80869,MUNERA: Familia Gladiatoria,2,4,90,10,2010,257,5.567,Economic
+80869,MUNERA: Familia Gladiatoria,2,4,90,10,2010,257,5.567,Fighting
+80942,Ranking,3,5,45,8,2010,365,5.50186,Bluffing
+81542,Quest: A Time of Heroes,2,5,90,10,2010,810,5.59806,Fighting
+81640,Florenza,2,5,200,14,2010,1352,6.3993,Economic
+82168,Escape from the Aliens in Outer Space,2,8,45,13,2010,2980,6.37571,Science Fiction
+82222,Xia: Legends of a Drift System,3,5,180,12,2014,5303,7.23482,Fighting
+82222,Xia: Legends of a Drift System,3,5,180,12,2014,5303,7.23482,Science Fiction
+82272,Railroad Barons,2,2,45,12,2010,569,5.68575,Economic
+82402,Friesematenten,2,4,45,12,2010,868,5.75546,Economic
+82420,Summoner Wars: Guild Dwarves vs Cave Goblins,2,4,30,9,2009,4664,6.96021,Fighting
+82421,Summoner Wars: Phoenix Elves vs Tundra Orcs,2,4,30,9,2009,4915,6.9587,Fighting
+82424,Bangkok Klongs,2,4,60,10,2010,266,5.68586,Economic
+82702,Funfair,3,6,30,8,2010,311,5.58537,Bluffing
+83330,Mansions of Madness,2,5,120,13,2011,15443,7.15815,Fighting
+83734,Strike of the Eagle,2,4,150,13,2011,1232,6.31043,Bluffing
+84159,Junta: Viva el Presidente!,3,5,60,10,2010,1559,5.99949,Fighting
+84419,Space Empires: 4X,1,4,180,12,2011,3780,6.89903,Bluffing
+84419,Space Empires: 4X,1,4,180,12,2011,3780,6.89903,Science Fiction
+84469,Fürstenfeld,2,5,60,13,2010,1237,6.07803,Economic
+84772,"Sun, Sea & Sand",2,5,60,10,2010,761,6.09455,Economic
+84838,Yomi (second edition),1,4,20,10,2014,584,6.00796,Fighting
+84889,Cave Evil,2,4,180,16,2011,588,6.02898,Fighting
+85005,The Boss,2,4,40,10,2010,1776,6.39351,Bluffing
+85036,20th Century,3,5,120,13,2010,1934,6.3838,Economic
+85243,Loch Ness,2,5,45,8,2010,583,5.55685,Bluffing
+85394,The Last Banquet,6,25,45,10,2012,813,5.54119,Bluffing
+85652,Dystopian Wars,2,0,240,12,2010,475,5.82526,Science Fiction
+86246,Drum Roll,2,4,90,12,2011,2166,6.42765,Economic
+86955,Munchkin Zombies,3,6,90,10,2011,5691,6.01478,Fighting
+87141,ScrumBrawl,2,4,50,13,2011,233,5.62652,Fighting
+87200,Dragon Valley,2,4,120,12,2012,363,5.72256,Fighting
+87632,Escape of the Dead Minigame,1,1,15,7,2010,199,5.59361,Fighting
+87821,Kingdom of Solomon,2,4,60,12,2012,834,6.02764,Economic
+87890,Prêt-à-Porter,2,4,90,10,2010,1495,6.48033,Economic
+87907,1865: Sardinia,2,4,240,14,2011,260,5.78286,Economic
+88016,Briefcase,2,4,60,12,2012,1071,5.82859,Economic
+88316,Autokrator,2,4,90,12,2012,238,5.5943,Fighting
+88406,Astra Titanus,1,1,45,13,2010,467,5.80824,Science Fiction
+88408,Nightfall,2,5,45,12,2011,4702,6.30867,Fighting
+88559,Bullfrog Goldfield,2,5,240,16,2011,195,5.64344,Economic
+88960,Godzilla: Stomp!,2,5,30,14,2011,293,5.51801,Bluffing
+89342,Tomorrow,4,6,90,18,2013,690,5.71808,Bluffing
+89342,Tomorrow,4,6,90,18,2013,690,5.71808,Science Fiction
+89409,BattleCON: War of Indines,2,4,15,9,2010,2388,6.80944,Fighting
+89695,RoboDerby: Express,2,2,45,10,2011,272,5.71543,Science Fiction
+89910,"Run, Fight, or Die!",1,4,40,13,2014,2487,6.35927,Fighting
+89956,Ninjago: The Board Game,2,4,15,8,2011,286,5.47929,Fighting
+90041,Principato,2,4,90,10,2011,1621,5.8718,Economic
+90137,Blood Bowl: Team Manager – The Card Game,2,4,90,14,2011,10815,7.16939,Fighting
+90305,Cargo Noir,2,5,90,8,2011,3145,6.20164,Economic
+90419,Airlines Europe,2,5,75,10,2011,6385,7.08677,Economic
+91189,Ristorante Italia,2,5,90,10,2011,751,5.99079,Economic
+91536,Quarriors!,2,4,30,14,2011,14920,6.68183,Fighting
+91873,Strasbourg,3,5,60,12,2011,2280,6.67775,Economic
+92190,Super Dungeon Explore,2,6,120,10,2011,4855,6.45574,Fighting
+92319,Olympos,2,5,75,12,2011,2713,6.55371,Fighting
+92415,Skull,3,6,45,14,2011,7351,6.82173,Bluffing
+92666,Hegemonic,2,6,180,13,2013,1306,5.99499,Economic
+92666,Hegemonic,2,6,180,13,2013,1306,5.99499,Science Fiction
+93260,Summoner Wars: Master Set,2,4,30,9,2011,11401,7.38047,Fighting
+93538,Battleship Galaxies,2,4,70,13,2011,2347,6.11215,Science Fiction
+93577,Rocket Jockey,2,4,60,10,2012,376,5.5083,Science Fiction
+93724,Black Gold,2,5,120,13,2011,1925,6.1825,Bluffing
+93724,Black Gold,2,5,120,13,2011,1925,6.1825,Economic
+94255,Warparty,2,4,150,14,2013,293,5.65232,Fighting
+94365,Sultans of Karaya,5,15,60,12,2011,404,5.68359,Bluffing
+94891,Kabaleo,2,4,15,8,2011,243,5.51114,Bluffing
+94915,Munchkin Axe Cop,3,6,90,8,2011,915,5.61145,Fighting
+95449,Fame Us,4,8,15,10,2011,188,5.54895,Bluffing
+95527,Madeira,2,4,150,12,2013,3733,7.03492,Economic
+96007,The New Era,2,5,60,10,2011,1640,6.65488,Economic
+96007,The New Era,2,5,60,10,2011,1640,6.65488,Science Fiction
+96152,Nightfall: Martial Law,2,5,45,12,2011,2064,6.21847,Fighting
+96613,Alcatraz: The Scapegoat,3,4,60,15,2011,1631,6.01239,Bluffing
+96765,CardFight!! Vanguard,2,2,0,0,2011,178,5.5638,Fighting
+96848,Mage Knight Board Game,1,4,150,14,2011,27089,7.9412,Fighting
+97093,Cherokee,2,4,30,10,2011,313,5.59945,Fighting
+97273,Upon a Salty Ocean,2,4,120,13,2011,797,5.90938,Economic
+97655,Space Maze,2,4,45,12,2011,350,5.59998,Science Fiction
+97786,Small World Underground,2,5,90,8,2011,11324,7.12144,Fighting
+97842,Last Will,2,5,75,13,2011,7790,7.0547,Economic
+97875,Wiraqocha,2,4,60,12,2011,659,5.85048,Fighting
+97875,Wiraqocha,2,4,60,12,2011,659,5.85048,Science Fiction
+98046,Sake & Samurai,3,8,45,13,2011,284,5.55672,Fighting
+98347,Empires of the Void,2,4,120,12,2012,1125,6.016,Science Fiction
+98351,Core Worlds,2,5,120,10,2011,4184,6.86196,Science Fiction
+98472,Strain,3,7,60,10,2011,287,5.5231,Fighting
+98739,Byzantio,2,4,60,10,2013,423,5.66718,Bluffing
+98960,Rogue Agent,2,4,90,12,2013,581,5.54024,Science Fiction
+99120,The Walking Dead: The Board Game,1,6,45,13,2011,1824,5.6052,Fighting
+99132,2019: The ARCTIC,2,4,120,12,2011,170,5.65192,Economic
+99132,2019: The ARCTIC,2,4,120,12,2011,170,5.65192,Fighting
+99132,2019: The ARCTIC,2,4,120,12,2011,170,5.65192,Science Fiction
+99392,Colonial: Europe's Empires Overseas,2,6,120,14,2011,1081,6.21495,Economic
+99437,Rumble in the House,3,6,20,8,2011,927,5.73243,Bluffing
+99437,Rumble in the House,3,6,20,8,2011,927,5.73243,Fighting
+99459,Banjooli Xeet,2,5,30,8,2013,404,5.73447,Bluffing
+99630,Rolling Stock,3,5,240,0,2011,197,5.76676,Economic
+99770,Arcanum,3,5,45,10,2011,497,5.61753,Bluffing
+99791,Road to Enlightenment,2,7,150,12,2012,490,5.57489,Bluffing
+99791,Road to Enlightenment,2,7,150,12,2012,490,5.57489,Economic
+99875,Martian Dice,2,99,10,8,2011,4239,6.10611,Science Fiction
+100679,Ultimate Warriorz,2,8,30,8,2011,1067,6.08692,Fighting
+101721,Mage Wars Arena,2,2,90,13,2012,10382,7.41774,Fighting
+101786,Dust Tactics: Revised Core Set,2,4,45,14,2011,1024,6.01929,Science Fiction
+102104,Star Fluxx,2,6,10,8,2011,7685,6.14637,Science Fiction
+102181,In a Grove,3,4,20,9,2011,819,5.78171,Bluffing
+102237,Drako,2,2,30,8,2011,1850,6.26444,Fighting
+102548,Dungeon Fighter,1,6,45,14,2011,5464,6.60396,Fighting
+102652,Sentinels of the Multiverse,1,5,60,8,2011,16079,7.15022,Fighting
+102681,21 Mutinies Arrr! Edition,2,5,45,10,2013,236,5.69079,Economic
+102794,Caverna: The Cave Farmers,1,7,210,12,2013,21260,8.00926,Economic
+103132,Rapa Nui,2,4,40,10,2011,711,6.08513,Economic
+103184,The Gnomes of Zavandor,2,4,90,10,2011,984,5.8121,Economic
+103191,Pergamemnon,2,5,45,10,2011,397,5.50038,Fighting
+103235,Singapore,3,4,90,12,2011,490,5.68632,Economic
+103660,VivaJava: The Coffee Game,3,8,90,13,2012,1166,6.21037,Bluffing
+103660,VivaJava: The Coffee Game,3,8,90,13,2012,1166,6.21037,Economic
+103670,Dust Warfare: Core Rulebook,2,4,120,14,2012,376,5.73672,Science Fiction
+103686,Mundus Novus,2,6,60,14,2011,2049,6.23996,Economic
+104020,Vanuatu,2,5,90,12,2011,2006,6.74181,Economic
+104162,Descent: Journeys in the Dark (Second Edition),2,5,120,14,2012,23248,7.57251,Fighting
+104347,Santiago de Cuba,2,4,75,10,2011,3508,6.60126,Economic
+104363,Rex: Final Days of an Empire,3,6,120,14,2012,5616,6.77094,Fighting
+104363,Rex: Final Days of an Empire,3,6,120,14,2012,5616,6.77094,Science Fiction
+104575,Steam Torpedo: First Contact,2,2,40,13,2011,1112,5.68312,Fighting
+104581,Panic on Wall Street!,3,11,30,8,2011,1504,6.30121,Economic
+104640,Robin Hood,3,5,50,14,2011,251,5.75618,Bluffing
+104655,Lemonade Stand,2,4,20,13,2012,747,5.63119,Economic
+104710,Wiz-War (eighth edition),2,4,60,14,2012,5627,6.77021,Fighting
+104955,Antike Duellum,2,2,75,13,2012,1803,6.46779,Fighting
+104994,City Tycoon,2,5,120,10,2011,1022,6.02987,Economic
+105037,Tournay,2,4,60,12,2011,3622,6.61944,Economic
+105134,Risk Legacy,3,5,60,13,2011,9285,7.2286,Science Fiction
+105199,Space Mission,2,5,45,10,2011,437,5.66354,Science Fiction
+105551,Archipelago,1,5,240,14,2012,7131,7.10186,Economic
+106631,Space Bastards,2,5,90,12,2011,270,5.55903,Science Fiction
+106662,Power Grid: The First Sparks,2,6,60,12,2011,3715,6.55452,Economic
+106999,Coney Island,2,4,60,10,2011,1038,5.92905,Economic
+107190,Flash Duel: Second Edition,1,5,5,0,2011,1038,6.09914,Fighting
+107255,Evo (second edition),2,5,60,14,2011,1929,6.47228,Science Fiction
+107463,Help Me!,2,6,10,7,2011,248,5.56616,Bluffing
+107635,Kairo,2,4,45,8,2012,620,5.72412,Economic
+107861,Warriors & Traders,2,6,120,12,2011,762,5.66716,Economic
+108044,Nefarious,2,6,45,8,2011,1907,6.09404,Science Fiction
+108161,Aquileia,3,5,90,12,2011,634,5.82764,Economic
+108377,Space Station,2,6,60,12,2011,355,5.7126,Science Fiction
+108554,Super Showdown,2,2,10,12,2012,310,5.51271,Bluffing
+108665,Zpocalypse,1,4,100,13,2013,1527,5.73843,Fighting
+108687,Puerto Rico: Limited Anniversary Edition,2,5,150,13,2011,4504,7.83905,Economic
+108711,The Mystery of the Templars,2,4,150,14,2013,368,5.53728,Economic
+108722,Dreadfleet,2,10,60,12,2011,2897,6.10127,Fighting
+109125,Wallenstein (second edition),2,5,120,12,2012,1625,6.61174,Economic
+109215,Gunship: First Strike!,2,4,30,13,2013,866,5.5772,Science Fiction
+109276,Kanban: Automotive Revolution,2,4,120,12,2014,4145,7.20269,Economic
+109456,Nova Cry,2,6,90,12,2016,461,5.53752,Science Fiction
+110102,Siberia,2,4,60,10,2011,426,5.81868,Economic
+110277,Among the Stars,2,4,30,12,2012,7363,6.96184,Science Fiction
+111341,The Great Zimbabwe,2,5,150,14,2012,2260,6.90017,Economic
+111799,Cuba Libre,1,4,180,0,2013,3029,6.8508,Economic
+112138,Krosmaster: Arena,2,4,60,14,2012,5584,6.54393,Fighting
+112381,Abaddon,2,4,45,14,2012,469,5.68279,Science Fiction
+112445,Disaster Looms!,2,4,90,10,2012,533,5.54985,Economic
+112445,Disaster Looms!,2,4,90,10,2012,533,5.54985,Science Fiction
+112686,Epic Spell Wars of the Battle Wizards: Duel at Mt. Skullzfyre,2,6,30,15,2012,6026,6.32592,Fighting
+112869,Munchkin Apocalypse,3,6,90,10,2012,2278,5.94658,Fighting
+112991,Munchkin Conan,3,6,90,10,2012,921,5.68464,Fighting
+113293,Article 27: The UN Security Council Game,3,6,30,10,2012,1063,5.96336,Bluffing
+113301,Clocks,1,4,30,8,2012,144,5.5855,Bluffing
+113636,Edo,2,4,60,12,2012,2122,6.45126,Economic
+113927,Nightfall: The Coldest War,2,5,45,12,2012,1167,6.01194,Fighting
+114912,Starship Merchants,2,4,90,14,2012,666,5.88486,Science Fiction
+115293,Fortress America,2,4,150,0,2012,2000,6.05895,Science Fiction
+116981,Star Wars: Battle of Hoth,2,4,15,8,2012,466,5.60357,Science Fiction
+117784,Army vs. Aliens,2,2,15,8,2012,347,5.4569,Science Fiction
+117854,Kosmonauts,2,4,60,8,2012,422,5.83152,Science Fiction
+118025,Waka Waka,2,4,45,10,2012,439,5.61827,Economic
+118063,Android: Infiltration,2,6,45,14,2012,4359,6.35087,Science Fiction
+118315,Ruse,3,5,30,10,2014,283,5.48132,Science Fiction
+118418,Divinare,2,4,30,13,2012,1533,6.22564,Bluffing
+118536,Police Precinct,1,6,90,13,2013,2655,6.34976,Bluffing
+118703,20th Century Limited,2,5,60,14,2015,267,5.70152,Economic
+119012,The Capitals,2,5,120,13,2013,1141,6.20916,Economic
+119337,Aeroplanes: Aviation Ascendant,3,5,120,14,2012,933,5.97457,Economic
+119407,Dixit Jinx,3,6,15,8,2012,1721,5.65241,Bluffing
+119506,Freedom: The Underground Railroad,1,4,120,13,2012,4079,7.04857,Economic
+119622,Massilia,2,4,120,14,2014,351,5.49496,Economic
+119639,Heap,2,4,30,10,2012,396,5.51539,Fighting
+119781,Legacy: Gears of Time,2,4,60,13,2012,1397,6.2389,Science Fiction
+119788,Hyperborea,2,6,90,12,2014,3597,6.82825,Fighting
+119804,Empire Express,2,4,90,10,2012,387,5.66672,Economic
+120268,Monsters and Maidens,2,6,30,8,2014,310,5.48918,Fighting
+120426,Redshirts,2,7,30,12,2012,789,5.26906,Science Fiction
+120605,Neuroshima: Convoy,2,2,40,10,2012,1808,6.05598,Fighting
+120605,Neuroshima: Convoy,2,2,40,10,2012,1808,6.05598,Science Fiction
+120677,Terra Mystica,2,5,150,12,2012,27342,8.15106,Economic
+120906,Velociraptor! Cannibalism!,3,6,60,8,2013,217,5.44958,Fighting
+121193,Grandpa Beck's Cover Your A$$ets,2,6,30,8,2011,460,5.60524,Economic
+121410,Steam Park,2,4,60,8,2013,6292,6.69513,Science Fiction
+121414,Countdown: Special Ops,1,6,30,12,2013,220,5.47865,Fighting
+121787,RYŪ,2,5,0,0,2015,260,5.51082,Science Fiction
+122240,Last Night on Earth: Timber Peak,2,6,90,12,2012,2026,6.42023,Fighting
+122271,Defenders of the Realm: Battlefields,2,4,30,13,2012,530,5.57136,Fighting
+122313,The Doge Ship,2,5,90,13,2012,393,5.59859,Economic
+122327,Pirates of the Spanish Main: Shuffling the Deck,2,4,30,8,2012,452,5.59308,Bluffing
+122515,Keyflower,2,6,120,12,2012,14301,7.75355,Economic
+122522,Smash Up,2,4,45,12,2012,25829,6.75013,Science Fiction
+122842,Exodus: Proxima Centauri,2,6,180,14,2012,2433,6.43828,Fighting
+122842,Exodus: Proxima Centauri,2,6,180,14,2012,2433,6.43828,Science Fiction
+122889,Dominare,2,6,120,12,2012,1226,6.08937,Economic
+122890,Mercante,3,5,60,12,2012,747,5.7704,Economic
+122943,Scripts and Scribes: The Dice Game,2,5,30,10,2012,495,5.78527,Bluffing
+123096,Space Cadets,3,6,120,8,2012,4846,6.39612,Science Fiction
+123123,BattleCON: Devastation of Indines,1,5,45,10,2013,3679,7.27169,Fighting
+123260,Suburbia,1,4,90,8,2012,17897,7.50512,Economic
+123499,City of Iron,2,4,120,13,2013,2086,6.5983,Economic
+124044,Tooth & Nail: Factions,2,4,0,0,2012,458,5.64098,Science Fiction
+124356,Richelieu,2,4,60,10,2012,246,5.6501,Bluffing
+124361,Concordia,2,5,100,13,2013,10659,7.75525,Economic
+124545,Town Center,2,4,30,12,2012,424,5.75332,Economic
+124708,Mice and Mystics,1,4,120,7,2012,20804,7.2576599999999996,Fighting
+124742,Android: Netrunner,2,2,45,14,2012,31903,7.82427,Bluffing
+124742,Android: Netrunner,2,2,45,14,2012,31903,7.82427,Science Fiction
+124827,Space Cadets: Away Missions,1,6,120,10,2015,1373,6.1921,Fighting
+124827,Space Cadets: Away Missions,1,6,120,10,2015,1373,6.1921,Science Fiction
+124839,Hoplomachus: The Lost Cities,1,3,60,12,2012,510,5.89961,Fighting
+124881,Swordfish,2,6,75,14,2012,241,5.55023,Economic
+124960,3012,2,4,60,15,2012,551,5.50022,Science Fiction
+125153,The Gallerist,1,4,150,13,2015,5673,7.52058,Economic
+125326,Sedition Wars: Battle for Alabaster,2,2,60,12,2013,1405,5.54091,Science Fiction
+125605,I'm the Boss!: The Card Game,3,6,45,9,2012,401,5.56928,Economic
+125658,Level 7 [Escape],1,4,45,14,2012,1664,5.72864,Science Fiction
+125854,Mars Needs Mechanics,2,4,45,10,2013,671,5.60368,Economic
+125854,Mars Needs Mechanics,2,4,45,10,2013,671,5.60368,Science Fiction
+125943,Corporate America,3,6,120,13,2013,375,5.89024,Economic
+126000,Letnisko,2,5,45,8,2013,332,5.74525,Economic
+126021,Dropzone Commander,2,4,0,0,2012,322,5.70538,Science Fiction
+126025,Rise of the Zombies!,1,8,60,12,2013,324,5.62599,Fighting
+126042,Nations,1,5,200,14,2013,9106,7.51418,Economic
+126163,Tzolk'in: The Mayan Calendar,2,4,90,13,2012,20103,7.79445,Economic
+126239,Twin Tin Bots,2,6,50,10,2013,658,5.87004,Fighting
+126613,"Warhammer 40,000 (sixth edition)",2,12,120,12,2012,644,5.83488,Fighting
+126613,"Warhammer 40,000 (sixth edition)",2,12,120,12,2012,644,5.83488,Science Fiction
+126912,Lady Alice,3,5,30,8,2012,817,5.79511,Bluffing
+127023,Kemet,2,5,120,13,2012,11308,7.53791,Fighting
+127024,Room 25,1,6,30,13,2013,4759,6.54408,Bluffing
+127024,Room 25,1,6,30,13,2013,4759,6.54408,Science Fiction
+127282,Al Rashid,2,5,100,13,2012,454,5.79659,Economic
+127398,Legends of Andor,2,4,90,10,2012,13132,7.09308,Fighting
+127798,Express 01,2,4,60,10,2012,350,5.44356,Economic
+127981,Dungeon Heroes,1,2,30,13,2013,701,5.6964,Bluffing
+127994,Heroes of Metro City,2,4,60,13,2013,446,5.56197,Science Fiction
+128137,Damage Report,2,6,45,10,2014,533,5.68997,Science Fiction
+128204,Ars Victor,2,2,60,13,2013,393,5.70702,Science Fiction
+128219,Shafausa,2,6,120,8,2012,384,5.5321,Economic
+128271,Ginkgopolis,1,5,45,13,2012,3576,7.04766,Science Fiction
+128442,Relic,2,4,180,14,2013,4144,6.42173,Science Fiction
+128621,Viticulture,2,6,90,13,2013,6320,7.45011,Economic
+128666,BANG! 10th Anniversary,3,7,30,8,2012,633,5.80406,Bluffing
+128666,BANG! 10th Anniversary,3,7,30,8,2012,633,5.80406,Fighting
+128667,Samurai Sword,3,7,40,8,2012,3677,6.31971,Bluffing
+128667,Samurai Sword,3,7,40,8,2012,3677,6.31971,Fighting
+128698,Vampire Empire,2,2,30,10,2012,933,5.95783,Bluffing
+128721,Crisis,1,5,120,14,2016,946,6.27323,Economic
+128733,Revolver 2: Last Stand at Malpaso,2,2,45,12,2012,987,5.88231,Bluffing
+128733,Revolver 2: Last Stand at Malpaso,2,2,45,12,2012,987,5.88231,Fighting
+128780,Pax Porfiriana,1,6,120,12,2012,3309,6.9814,Economic
+128882,The Resistance: Avalon,5,10,30,13,2012,22455,7.55243,Bluffing
+128898,New Amsterdam,2,5,90,12,2012,1369,6.36622,Economic
+128938,Pack of Heroes,2,2,20,10,2014,628,5.69861,Fighting
+129029,Brawling Barons,2,3,20,10,2012,415,5.62666,Fighting
+129051,Le Havre: The Inland Port,2,2,30,10,2012,4023,6.58288,Economic
+129165,Wings of Glory: WW1 Duel Pack,2,2,30,13,2013,444,5.79754,Fighting
+129293,Gauntlet of Fools,2,6,30,13,2012,1310,5.74462,Fighting
+129359,Munchkin Pathfinder,3,6,90,12,2013,1705,5.73645,Fighting
+129380,Mercurius,3,5,60,10,2012,361,5.67109,Economic
+129395,Monopoly Millionaire Deal Card Game,2,5,15,8,2012,782,5.59162,Economic
+129459,Duel of Ages II,2,8,150,12,2013,2015,6.53073,Fighting
+129459,Duel of Ages II,2,8,150,12,2013,2015,6.53073,Science Fiction
+129710,Card City,1,4,30,12,2012,631,5.65818,Economic
+129731,DreadBall: The Futuristic Sports Game,2,2,90,14,2012,1541,6.25994,Science Fiction
+129736,Kakerlakenpoker Royal,2,6,25,8,2012,1230,6.03226,Bluffing
+129858,La Venise du Nord,2,4,60,12,2012,254,5.59964,Economic
+129904,Shadows over Camelot: The Card Game,1,7,20,0,2012,1928,5.63838,Bluffing
+129948,The Palaces of Carrara,2,4,60,10,2012,3391,6.8179,Economic
+129951,Teomachia,2,4,30,10,2012,281,5.6533,Bluffing
+129951,Teomachia,2,4,30,10,2012,281,5.6533,Fighting
+129974,"Warhammer 40,000: Dark Vengeance",2,2,120,10,2012,612,5.76728,Fighting
+129974,"Warhammer 40,000: Dark Vengeance",2,2,120,10,2012,612,5.76728,Science Fiction
+130008,La Loire,1,4,120,10,2012,238,5.58136,Economic
+130060,Ohne Furcht und Adel,2,7,60,10,2012,941,5.91806,Bluffing
+130229,Out of Gears,2,8,30,8,2012,191,5.5994,Bluffing
+130229,Out of Gears,2,8,30,8,2012,191,5.5994,Science Fiction
+130240,Monopoly Millionaire,2,4,60,8,2012,394,5.46487,Economic
+130390,Ruhrschifffahrt 1769-1890,2,4,120,12,2012,609,6.04564,Economic
+130486,Small City,1,4,120,12,2015,820,6.06464,Economic
+130499,Stones of Fate,2,4,30,12,2015,410,5.65546,Bluffing
+130552,Warhammer Fantasy Battles (8th Edition),2,2,180,12,2010,387,5.75731,Fighting
+130792,The Enchanted Tower,2,4,25,5,2012,995,5.96556,Bluffing
+130827,Rumble in the Dungeon,3,6,20,8,2012,848,5.77955,Bluffing
+130877,Blood Bound,6,12,30,14,2013,1398,6.11384,Bluffing
+130960,Triumph & Tragedy,2,3,240,12,2015,1731,6.82569,Economic
+131241,Oilfield,2,5,60,12,2016,151,5.67088,Economic
+131246,Siberia: The Card Game,2,4,20,9,2012,497,5.82,Economic
+131287,Panamax,2,4,100,12,2014,3897,6.89386,Economic
+131332,Berserk: War of the Realms,2,4,60,13,2013,799,5.69938,Fighting
+131357,Coup,2,6,15,9,2012,33003,7.01028,Bluffing
+131449,Captains of Industry,3,5,150,13,2015,954,5.96217,Economic
+131457,Septikon: Uranium Wars,2,2,45,10,2012,261,5.60279,Science Fiction
+131646,Merchant of Venus (second edition),1,4,240,14,2012,5435,6.80218,Economic
+131646,Merchant of Venus (second edition),1,4,240,14,2012,5435,6.80218,Science Fiction
+131891,Lost Legends,3,5,70,10,2013,2114,6.02461,Fighting
+132531,Roll for the Galaxy,2,5,45,13,2014,18639,7.68449,Economic
+132531,Roll for the Galaxy,2,5,45,13,2014,18639,7.68449,Science Fiction
+132544,Tesla vs. Edison: War of Currents,2,5,90,14,2015,2250,6.11137,Bluffing
+132544,Tesla vs. Edison: War of Currents,2,5,90,14,2015,2250,6.11137,Economic
+132817,Xanadú,2,6,70,13,2012,631,5.79624,Economic
+133038,Pathfinder Adventure Card Game: Rise of the Runelords – Base Set,1,4,90,13,2013,14952,7.13264,Fighting
+133285,Tin Goose,3,5,150,10,2016,328,5.87873,Economic
+133528,City of Remnants,2,4,90,13,2013,1664,6.18958,Economic
+133528,City of Remnants,2,4,90,13,2013,1664,6.18958,Fighting
+133528,City of Remnants,2,4,90,13,2013,1664,6.18958,Science Fiction
+133534,Sigismundus Augustus: Dei gratia rex Poloniae,3,5,120,12,2012,301,5.7596,Economic
+133835,Dark Empire: Revolution,3,5,60,12,2013,350,5.67775,Bluffing
+133848,Euphoria: Build a Better Dystopia,2,6,60,13,2013,7660,7.05425,Science Fiction
+134352,Two Rooms and a Boom,6,30,15,8,2013,3626,6.57475,Bluffing
+134726,Smash Up: Awesome Level 9000,2,2,45,12,2013,13234,7.03008,Science Fiction
+135116,Rent a Hero,3,5,30,8,2012,2122,5.98027,Bluffing
+135281,Serenissima (second edition),2,4,90,13,2012,1272,6.12125,Economic
+135382,Shadowrun: Crossfire,1,4,60,13,2014,4211,6.76965,Science Fiction
+135654,New Dawn,2,4,120,12,2014,1355,6.00409,Economic
+135654,New Dawn,2,4,120,12,2014,1355,6.00409,Science Fiction
+135779,A Fake Artist Goes to New York,5,10,20,8,2012,1639,6.37583,Bluffing
+135877,Fish Cook,2,6,45,12,2012,542,5.81244,Economic
+135888,Titanium Wars,3,4,90,12,2013,791,5.6797,Science Fiction
+136056,Asante,2,2,40,10,2013,2260,6.2957,Economic
+136063,Forbidden Desert,2,5,45,10,2013,25192,7.1456,Science Fiction
+136356,Dread Curse,3,8,30,14,2013,1006,5.84924,Bluffing
+136888,Bruges,2,4,60,10,2013,8315,7.25115,Economic
+137237,Bremerhaven,1,4,120,12,2013,769,5.81171,Economic
+137238,Time 'n' Space,3,4,30,10,2013,996,5.78848,Economic
+137238,Time 'n' Space,3,4,30,10,2013,996,5.78848,Science Fiction
+137269,Spyrium,2,5,75,12,2013,6156,6.88609,Economic
+137269,Spyrium,2,5,75,12,2013,6156,6.88609,Science Fiction
+137290,Nosferatu,5,8,20,10,2013,995,5.88922,Bluffing
+137330,Cube Quest,2,2,15,8,2013,2322,6.3037,Fighting
+137649,Level 7 [Omega Protocol],2,6,90,14,2013,2902,6.7484,Fighting
+137649,Level 7 [Omega Protocol],2,6,90,14,2013,2902,6.7484,Science Fiction
+137651,What's He Building in There?,2,6,60,12,2013,597,5.83404,Economic
+137669,Gearworld: The Borderlands,2,4,120,14,2013,1156,5.50623,Science Fiction
+137776,Praetor,2,5,75,12,2014,1754,6.07566,Economic
+137811,Galactic Strike Force,2,6,60,13,2014,1006,5.58686,Science Fiction
+137900,Jupiter Rescue,2,7,60,15,2013,531,5.77832,Science Fiction
+138166,Huida de Silver City,1,4,120,12,2013,369,5.80399,Fighting
+138338,Continental Divide,3,6,120,12,2013,284,5.66419,Economic
+138431,Galaxy Defenders,1,5,120,12,2014,2391,6.57559,Fighting
+138431,Galaxy Defenders,1,5,120,12,2014,2391,6.57559,Science Fiction
+138616,Shift: The Single Card CCG,2,2,25,13,2013,375,5.54104,Fighting
+138788,Dungeon Roll,1,4,15,8,2013,11167,6.04987,Fighting
+139030,Mascarade,2,13,30,10,2013,9273,6.53157,Bluffing
+139033,Archon: Glory & Machination,2,4,120,12,2013,1328,6.1843,Economic
+139131,Hoplomachus: Rise of Rome,1,2,30,12,2013,384,5.77689,Fighting
+139245,Dilluvia Project,2,4,120,12,2015,505,5.99808,Science Fiction
+139443,Superfight,3,10,30,5,2013,2246,5.73809,Fighting
+139443,Superfight,3,10,30,5,2013,2246,5.73809,Science Fiction
+139562,Rockwell,2,4,90,14,2013,842,6.07033,Economic
+139629,Mythe,2,5,20,6,2012,447,5.62917,Bluffing
+139898,Brew Crafters,2,5,90,12,2013,2931,6.87769,Economic
+139976,Cthulhu Wars,3,4,120,14,2015,2875,7.13087,Fighting
+140068,Galaxy Trucker: Anniversary Edition,2,5,120,10,2012,4278,7.45027,Science Fiction
+140163,Pandánte,2,6,30,13,2014,513,5.67262,Bluffing
+140179,De Poorters van Nieuwstad,2,4,60,12,2013,196,5.54972,Economic
+140603,Francis Drake,3,5,120,14,2013,4289,7.04537,Bluffing
+140779,Guardians' Chronicles,2,5,75,14,2014,515,5.62196,Science Fiction
+140865,Agent Hunter,2,2,15,12,2013,1503,5.65368,Bluffing
+141035,Space Sheep!,1,8,20,10,2013,653,5.49215,Bluffing
+141035,Space Sheep!,1,8,20,10,2013,653,5.49215,Science Fiction
+141090,Kohle & Kolonie,3,5,150,12,2013,727,6.13903,Economic
+141423,Dead Men Tell No Tales,2,5,75,13,2015,2852,6.46631,Fighting
+141437,What the Food?!,3,8,30,8,2013,271,5.5679,Fighting
+141653,Disc Duelers,2,21,45,10,2013,688,5.81024,Fighting
+141736,Sail to India,3,4,60,14,2013,3882,6.38339,Economic
+141829,7-Card Slugfest,3,8,30,0,2013,416,5.5706,Fighting
+142039,Lost Legacy,2,6,30,10,2013,1337,5.99054,Bluffing
+142063,Deadzone,2,4,60,12,2013,845,5.89763,Science Fiction
+142079,Space Cadets: Dice Duel,4,8,30,12,2013,4093,6.52311,Fighting
+142079,Space Cadets: Dice Duel,4,8,30,12,2013,4093,6.52311,Science Fiction
+142085,Promised Land: 1250-587 BC,2,6,150,12,2013,428,5.73589,Economic
+142085,Promised Land: 1250-587 BC,2,6,150,12,2013,428,5.73589,Fighting
+142451,Cornish Smuggler,2,5,120,13,2013,768,5.62668,Economic
+142503,One Night Werewolf,3,7,10,10,2012,591,5.70002,Bluffing
+142830,Chaosmos,2,4,90,12,2015,1107,6.05318,Bluffing
+142830,Chaosmos,2,4,90,12,2015,1107,6.05318,Fighting
+142830,Chaosmos,2,4,90,12,2015,1107,6.05318,Science Fiction
+142924,Mayday!Mayday!,5,8,25,10,2013,390,5.69253,Bluffing
+142961,Thunderstone Advance: Numenera,1,5,90,12,2013,2494,6.51656,Science Fiction
+142988,Hunters of Arcfall,2,6,30,8,2014,348,5.58191,Science Fiction
+142992,Gravwell: Escape from the 9th Dimension,1,4,35,12,2013,3146,6.54555,Science Fiction
+143096,Camp Grizzly,1,6,60,18,2013,577,5.89443,Fighting
+143147,Saboteur (compilation editions),2,12,30,8,2011,1587,6.159,Bluffing
+143175,Kashgar: Händler der Seidenstraße,2,4,45,12,2013,783,6.12299,Economic
+143176,Steam Works,2,5,120,12,2015,1155,6.05703,Science Fiction
+143401,Yunnan,2,5,90,12,2013,1267,6.32728,Economic
+143484,Florenza: The Card Game,2,4,60,14,2013,658,5.926,Economic
+143519,Quantum,2,4,60,13,2013,5370,6.98102,Fighting
+143519,Quantum,2,4,60,13,2013,5370,6.98102,Science Fiction
+143693,Glass Road,1,4,75,13,2013,7150,7.21576,Economic
+143741,BANG! The Dice Game,3,8,15,8,2013,16345,6.87629,Bluffing
+143741,BANG! The Dice Game,3,8,15,8,2013,16345,6.87629,Fighting
+143782,Global Mogul,1,4,120,14,2013,332,5.72262,Economic
+143981,VOLT: Robot Battle Arena,2,4,30,13,2014,577,5.92111,Fighting
+143981,VOLT: Robot Battle Arena,2,4,30,13,2014,577,5.92111,Science Fiction
+144041,Patchistory,2,4,120,12,2013,2475,6.62355,Bluffing
+144041,Patchistory,2,4,120,12,2013,2475,6.62355,Economic
+144239,Impulse,2,6,60,14,2013,2540,6.38527,Bluffing
+144239,Impulse,2,6,60,14,2013,2540,6.38527,Economic
+144239,Impulse,2,6,60,14,2013,2540,6.38527,Fighting
+144239,Impulse,2,6,60,14,2013,2540,6.38527,Science Fiction
+144344,Rococo,2,5,120,12,2013,5797,7.2126,Economic
+144415,Nauticus,2,4,90,12,2013,1243,6.26102,Economic
+144479,"Myths at War (Nordic, Egyptian and Japanese)",2,6,20,10,2013,252,5.70629,Fighting
+144525,Dungeon Twister: The Card Game,2,2,60,13,2013,1518,5.76019,Fighting
+144529,Theseus: The Dark Orbit,2,4,90,8,2013,2318,6.47822,Fighting
+144529,Theseus: The Dark Orbit,2,4,90,8,2013,2318,6.47822,Science Fiction
+144566,Circus Train (Second edition),1,5,90,13,2013,442,5.83126,Economic
+144592,Bruxelles 1893,2,5,125,13,2013,3357,7.11803,Economic
+144743,Machina Arcana,1,4,150,13,2014,526,5.78179,Fighting
+144826,Zombie 15',2,4,15,14,2014,2876,6.35634,Fighting
+144988,Lords of War:  Elves versus Lizardmen,2,8,30,12,2013,485,5.72466,Fighting
+145203,Prosperity,2,4,60,13,2013,1897,6.21191,Economic
+145219,Craftsmen,2,5,180,10,2013,588,5.81054,Economic
+145553,Asgard's Chosen,1,4,90,12,2013,410,5.59334,Fighting
+145588,Citrus,2,5,60,10,2013,776,6.11205,Economic
+145654,Invaders,2,2,60,12,2013,459,5.79252,Fighting
+145654,Invaders,2,2,60,12,2013,459,5.79252,Science Fiction
+145722,Eat Me If You Can!,3,6,10,6,2012,627,5.67661,Bluffing
+145842,Monopoly Empire,2,4,90,8,2013,607,5.452,Economic
+145928,Empire Engine,2,4,30,14,2013,1892,5.67434,Bluffing
+145928,Empire Engine,2,4,30,14,2013,1892,5.67434,Fighting
+145976,Talon,2,6,90,12,2016,983,5.99393,Science Fiction
+146221,Forge War,1,4,180,0,2015,2155,6.50917,Economic
+146275,Vikings: Warriors of the North,3,4,60,14,2013,387,5.44046,Fighting
+146278,Tash-Kalar: Arena of Legends,2,4,60,13,2013,5312,6.90206,Fighting
+146508,T.I.M.E Stories,2,4,90,12,2015,16620,7.79789,Science Fiction
+146559,Infamy,3,4,60,13,2013,625,5.8868,Economic
+146559,Infamy,3,4,60,13,2013,625,5.8868,Science Fiction
+146791,Shadows of Brimstone: City of the Ancients,1,4,120,12,2014,4440,7.08279,Fighting
+146886,La Granja,1,4,120,12,2014,6731,7.42974,Economic
+146910,Wildcatters,3,4,120,12,2013,369,5.96159,Economic
+147020,Star Realms,2,2,20,12,2014,28077,7.49846,Fighting
+147020,Star Realms,2,2,20,12,2014,28077,7.49846,Science Fiction
+147104,Wooolf!!,4,8,30,8,2013,269,5.69892,Bluffing
+147206,Copper Country,2,4,60,14,2015,454,5.69846,Economic
+147299,Pocket Imperium,2,4,45,12,2013,1306,5.78678,Science Fiction
+147303,Carcassonne: South Seas,2,5,35,8,2013,3247,6.62203,Economic
+147305,Om Nom Nom,1,6,20,8,2013,454,5.75491,Bluffing
+147451,Field of Glory: The Card Game,2,2,30,0,2013,758,5.81673,Fighting
+147474,8 Masters' Revenge,1,4,45,13,2013,127,5.63634,Fighting
+147537,Malifaux (second edition),2,2,120,0,2013,564,6.09137,Science Fiction
+147685,Hook!,3,6,30,8,2014,249,5.50938,Fighting
+147716,Mars Attacks: The Miniatures Game,2,2,120,12,2014,782,5.7703,Science Fiction
+147747,Super Fantasy: Ugly Snouts Assault,1,6,90,8,2013,856,5.91755,Fighting
+147883,Lost Legacy: Hyakunen Senso to Ryu no Miko,2,4,10,10,2013,319,5.68411,Bluffing
+147889,Dig Mars,2,4,30,8,2013,191,5.58646,Economic
+147889,Dig Mars,2,4,30,8,2013,191,5.58646,Science Fiction
+147930,King & Assassins,2,2,30,10,2013,714,6.06519,Bluffing
+147949,One Night Ultimate Werewolf,3,10,10,8,2014,17803,7.18293,Bluffing
+148228,Splendor,2,4,30,10,2014,39131,7.43565,Economic
+148271,Metallum,2,2,60,10,2013,488,5.91329,Economic
+148271,Metallum,2,2,60,10,2013,488,5.91329,Science Fiction
+148282,Black Hat,2,6,45,10,2015,177,5.57417,Science Fiction
+148291,Trieste,3,3,25,13,2013,823,5.97701,Bluffing
+148319,Tragedy Looper,2,4,120,13,2011,5276,6.85817,Bluffing
+148575,Marvel Dice Masters: Avengers vs. X-Men,2,2,60,14,2014,8879,6.99123,Fighting
+148943,Coup: Rebellion G54,3,6,15,14,2014,4136,6.5162,Bluffing
+148949,Istanbul,2,5,60,10,2014,15605,7.46141,Economic
+148951,Tiny Epic Kingdoms,2,5,45,13,2014,10474,6.4739,Bluffing
+148951,Tiny Epic Kingdoms,2,5,45,13,2014,10474,6.4739,Fighting
+149241,Assault on Doomrock,1,4,150,10,2014,1322,6.18231,Fighting
+149776,Fireteam Zero,1,4,90,14,2015,1073,6.16372,Fighting
+150312,Welcome to the Dungeon,2,4,30,10,2013,10131,6.57617,Bluffing
+150312,Welcome to the Dungeon,2,4,30,10,2013,10131,6.57617,Fighting
+150376,Dead of Winter: A Crossroads Game,2,5,210,14,2014,31801,7.71484,Bluffing
+150539,Big Picture Apples to Apples,4,6,30,7,2012,259,5.51306,Bluffing
+150605,Candy Chaser,2,4,10,10,2013,304,5.56533,Bluffing
+150996,Lords of War: Templars versus Undead,2,2,30,12,2014,383,5.64975,Fighting
+151004,Smash Up: Science Fiction Double Feature,2,2,45,12,2014,8570,6.90227,Science Fiction
+151007,Pathfinder Adventure Card Game: Skull & Shackles – Base Set,1,4,120,13,2014,4374,6.72494,Fighting
+151022,Baseball Highlights: 2045,1,4,45,9,2015,2406,6.96946,Science Fiction
+151275,Ophir,2,4,60,10,2015,450,5.74658,Economic
+151410,Cross Hares: Testing Ground,2,4,60,10,2014,293,5.54588,Science Fiction
+151771,La Cosa Nostra,3,5,90,16,2014,425,5.96733,Bluffing
+152241,Ultimate Werewolf,5,30,60,13,2014,506,5.68074,Bluffing
+152242,Ultimate Werewolf: Deluxe Edition,5,75,30,8,2014,2065,6.23763,Bluffing
+152567,Basari: Das Kartenspiel,3,5,30,10,2014,489,5.71238,Bluffing
+152847,Shinobi WAT-AAH!,2,4,45,10,2014,710,5.74478,Fighting
+153064,Good Cop Bad Cop,4,8,20,12,2014,3478,6.3693,Bluffing
+153097,Heroes Wanted,1,5,45,13,2014,2190,6.25602,Fighting
+153639,Zeppelin Attack!,2,4,45,12,2014,655,5.78501,Fighting
+153870,Green Deal,3,5,90,10,2014,146,5.58136,Bluffing
+153870,Green Deal,3,5,90,10,2014,146,5.58136,Economic
+153905,Warband: Against the Darkness,2,5,60,10,2015,369,5.72464,Fighting
+154086,Gold West,2,4,60,13,2015,1656,6.64432,Economic
+154602,Night of the Grand Octopus,3,5,20,7,2014,558,5.51134,Bluffing
+154809,Nippon,2,4,120,12,2015,2751,7.12045,Economic
+154825,Arkwright,2,4,240,12,2014,1668,6.61019,Economic
+154857,Emergence Event,2,4,120,12,2015,359,5.65431,Science Fiction
+154939,MERCS: Recon – Counter Threat,1,5,90,12,2015,715,5.69046,Fighting
+154939,MERCS: Recon – Counter Threat,1,5,90,12,2015,715,5.69046,Science Fiction
+155068,Arcadia Quest,2,4,60,13,2014,8402,7.54607,Fighting
+155119,Mars Attacks: The Dice Game,3,6,20,10,2014,1125,5.63922,Science Fiction
+155255,Pax Pamir,2,5,120,12,2015,1785,6.38599,Economic
+155362,Ca$h 'n Guns (Second Edition),4,8,30,10,2014,11097,6.89577,Bluffing
+155362,Ca$h 'n Guns (Second Edition),4,8,30,10,2014,11097,6.89577,Fighting
+155624,Specter Ops,2,5,90,13,2015,6054,6.9993,Fighting
+155624,Specter Ops,2,5,90,13,2015,6054,6.9993,Science Fiction
+155636,Level 7 [Invasion],3,5,180,0,2014,396,5.68652,Science Fiction
+155702,Quarriors! Light vs. Dark,2,4,30,14,2014,1166,5.8671,Fighting
+155822,Krosmaster Junior,2,4,15,7,2014,555,5.58408,Fighting
+155827,Krosmaster: Quest,2,6,180,12,2015,785,5.7391,Fighting
+155873,Power Grid Deluxe: Europe/North America,2,6,120,12,2014,3931,7.29597,Economic
+155969,Harbour,1,4,60,8,2015,5961,6.29929,Economic
+155987,Abyss,2,4,60,14,2014,6506,7.03125,Science Fiction
+156007,Mound Builders,1,1,60,13,2014,328,5.67498,Economic
+156061,Imperialism: Road to Domination,2,4,90,12,2014,235,5.61497,Economic
+156129,Deception: Murder in Hong Kong,4,12,20,14,2014,7103,7.19006,Bluffing
+156138,Happy Pigs,2,6,45,8,2013,1225,6.14934,Economic
+156180,Eggs and Empires,2,6,25,8,2014,1214,6.05987,Bluffing
+156442,Asking for Trobils,2,7,90,12,2015,566,5.95263,Science Fiction
+156455,Viticulture: Complete Collector's Edition,1,6,60,14,2014,1412,6.67274,Economic
+156474,MERCS: Recon – Assassination Protocol,1,5,90,12,2015,601,5.63344,Fighting
+156474,MERCS: Recon – Assassination Protocol,1,5,90,12,2015,601,5.63344,Science Fiction
+156501,Greenland,1,3,120,12,2014,2047,6.22159,Economic
+156548,Super Dungeon Explore: Forgotten King,1,6,120,0,2015,2851,6.2503,Fighting
+156776,"Warhammer 40,000: Conquest",2,2,45,14,2014,3884,6.7788,Fighting
+156840,Clinic,2,4,120,14,2014,666,5.88288,Economic
+156853,Pirate Den,3,5,30,14,2015,261,5.609,Bluffing
+156943,Saint Petersburg (second edition),2,5,60,13,2014,2608,6.8524,Economic
+157088,ESSEN The Game: SPIEL'13,2,5,75,10,2014,644,5.84293,Economic
+157135,Destination: Neptune,2,4,90,12,2014,250,5.58143,Economic
+157135,Destination: Neptune,2,4,90,12,2014,250,5.58143,Science Fiction
+157526,Viceroy,1,4,60,12,2014,6530,6.68439,Bluffing
+157912,Rise to Power,2,6,45,12,2014,766,5.76127,Science Fiction
+157917,The Lord of the Ice Garden,1,4,90,14,2014,986,6.26582,Fighting
+157917,The Lord of the Ice Garden,1,4,90,14,2014,986,6.26582,Science Fiction
+158109,Onward to Venus,2,5,120,0,2014,2000,6.1979,Fighting
+158109,Onward to Venus,2,5,120,0,2014,2000,6.1979,Science Fiction
+158243,Dragon Slayer,2,5,15,14,2014,3035,5.58876,Fighting
+158275,Marvel Dice Masters: Uncanny X-Men,2,2,60,14,2014,7137,6.94376,Fighting
+158339,Lost Legacy: The Starship,2,4,10,10,2014,4072,6.34147,Bluffing
+158339,Lost Legacy: The Starship,2,4,10,10,2014,4072,6.34147,Science Fiction
+158340,Lost Legacy: Flying Garden,2,4,10,10,2014,2826,6.23078,Bluffing
+158392,Stay Away!,4,12,60,12,2014,558,5.65638,Bluffing
+158408,Coup: Deluxe Edition,2,8,15,10,2014,891,5.92004,Bluffing
+158889,Summoner Wars: Alliances Master Set,2,4,45,9,2015,2115,6.86678,Fighting
+158899,Colt Express,2,6,40,10,2014,17147,7.0849,Fighting
+158900,Samurai Spirit,1,7,30,9,2014,4681,6.46941,Fighting
+158917,TKO,2,2,5,8,2015,707,5.42393,Fighting
+158970,Nautilus Industries,2,6,60,8,2015,408,5.69355,Economic
+158991,Hannin Wa Odoru,3,8,10,8,2013,405,5.6849,Bluffing
+159003,Raid & Trade,3,5,90,12,2015,450,5.56262,Science Fiction
+159109,XenoShyft: Onslaught,1,4,60,13,2015,3568,6.59231,Science Fiction
+159141,Code of Nine,3,4,40,13,2012,569,5.73973,Bluffing
+159141,Code of Nine,3,4,40,13,2012,569,5.73973,Science Fiction
+159446,Panthalos,2,5,90,12,2014,283,5.68116,Fighting
+159503,The Captain Is Dead,1,7,90,12,2014,935,6.14508,Science Fiction
+159508,AquaSphere,2,4,100,12,2014,7231,7.03241,Science Fiction
+159515,Operation F.A.U.S.T.,3,8,30,13,2015,606,5.68699,Bluffing
+159675,Fields of Arle,1,2,120,13,2014,5955,7.62646,Economic
+160018,Smash Up: Monster Smash,2,2,45,12,2014,6527,6.80015,Science Fiction
+160044,"Warhammer 40,000 (Seventh Edition)",2,12,120,12,2014,389,5.79065,Fighting
+160044,"Warhammer 40,000 (Seventh Edition)",2,12,120,12,2014,389,5.79065,Science Fiction
+160067,The Worst Game Ever,2,8,20,8,2014,282,5.49337,Bluffing
+160081,Dungeon Saga: Dwarf King's Quest,2,5,120,10,2015,1642,6.07079,Fighting
+160567,BANG!: The Walking Dead,4,7,30,13,2014,969,5.73846,Bluffing
+160567,BANG!: The Walking Dead,4,7,30,13,2014,969,5.73846,Fighting
+160608,Dungeon Bazar,2,5,50,8,2014,297,5.53168,Economic
+160744,Far Space Foundry,1,4,80,10,2015,717,5.83556,Science Fiction
+160902,Dungeons & Dragons Dice Masters: Battle for Faerûn,2,2,0,14,2015,3083,6.58551,Fighting
+161108,Fleet Commander: 1 – Ignition,2,2,60,12,2014,305,5.77308,Science Fiction
+161297,Paradox,2,4,120,10,2016,543,5.858,Science Fiction
+161383,LIE,2,6,20,8,2015,776,5.57224,Bluffing
+161578,[redacted],2,6,45,12,2014,1346,5.80116,Bluffing
+161614,Stockpile,2,5,45,13,2015,3600,7.03821,Economic
+161617,Dungeon Lords: Happy Anniversary,2,4,90,13,2014,1944,6.58028,Economic
+161617,Dungeon Lords: Happy Anniversary,2,4,90,13,2014,1944,6.58028,Fighting
+161681,Lift Off! Get me off this Planet!,2,5,45,8,2015,582,5.80071,Science Fiction
+161757,New Salem,3,8,45,14,2015,727,5.81488,Bluffing
+161965,Johari,2,4,90,10,2014,607,5.67259,Economic
+162007,Steampunk Rally,2,8,60,14,2015,4711,6.92911,Science Fiction
+162041,Ninja Taisen,2,2,20,8,2014,256,5.66019,Fighting
+162093,I Hate Zombies,2,12,15,6,2015,1271,5.43554,Fighting
+162263,Temporum,2,5,35,13,2014,935,5.94702,Science Fiction
+162388,BattleCON: Fate of Indines,2,2,15,10,2015,1233,6.27536,Fighting
+162580,Realm of Wonder,2,6,45,10,2014,534,5.61358,Fighting
+162591,Heroes,2,4,30,12,2015,397,5.691,Fighting
+162865,"I, Spy",2,4,90,13,2015,350,5.77453,Bluffing
+163027,Loop Inc.,2,4,40,13,2015,894,5.7824,Science Fiction
+163081,Galaxy of Trian,2,4,45,10,2014,898,5.80186,Science Fiction
+163166,One Night Ultimate Werewolf Daybreak,3,7,10,8,2015,6352,6.9878,Bluffing
+163175,Yashima: Legend of the Kami Masters,2,4,90,14,2015,556,5.73196,Fighting
+163354,Cypher,2,4,25,14,2014,1338,5.701,Science Fiction
+163413,Murano,2,4,75,10,2014,1681,6.52899,Economic
+163640,Eminent Domain: Microcosm,2,2,15,13,2014,3261,6.11098,Science Fiction
+163641,Eminent Domain: Battlecruisers,3,5,30,13,2016,1209,5.79483,Bluffing
+163641,Eminent Domain: Battlecruisers,3,5,30,13,2016,1209,5.79483,Science Fiction
+163685,Captain's Wager,2,5,30,12,2015,601,5.53439,Bluffing
+163931,Grog Island,2,4,75,10,2014,785,5.88712,Economic
+163967,Tiny Epic Galaxies,1,5,30,14,2015,10772,7.09062,Science Fiction
+163976,Exoplanets,2,4,60,12,2015,776,5.87361,Science Fiction
+164506,Biblios Dice,2,5,30,8,2015,694,5.86556,Bluffing
+165347,Mint Tin Aliens,2,2,5,10,2014,355,5.64496,Science Fiction
+165563,Prohis,3,6,20,10,2014,496,5.70993,Bluffing
+165657,Melee,2,4,20,10,2014,1267,5.67328,Bluffing
+165838,Space Hulk (fourth edition),2,2,60,12,2014,2957,6.72496,Fighting
+165838,Space Hulk (fourth edition),2,2,60,12,2014,2957,6.72496,Science Fiction
+166107,Matcha,2,2,20,10,2015,937,5.84958,Bluffing
+166109,Meteor,1,6,15,12,2014,934,5.69561,Science Fiction
+166286,Bottom of the 9th,1,2,20,13,2015,2520,6.24989,Bluffing
+166317,Time of Soccer,1,4,120,12,2014,480,6.1112,Economic
+166384,Spyfall,3,8,15,12,2014,15163,7.0612,Bluffing
+166418,Darkrock Ventures,1,5,45,14,2016,400,5.6318,Science Fiction
+166569,House of Borgia,2,6,30,14,2017,283,5.65062,Bluffing
+166669,San Juan (second edition),2,4,60,10,2014,4261,7.06018,Economic
+166776,Skull Tales,1,4,0,14,2015,348,5.75187,Fighting
+166857,Antike II,3,6,120,13,2014,1211,6.36946,Fighting
+167400,Ashes: Rise of the Phoenixborn,2,4,120,14,2015,5659,7.02145,Fighting
+167791,Terraforming Mars,1,5,120,12,2016,9487,8.0191,Economic
+167791,Terraforming Mars,1,5,120,12,2016,9487,8.0191,Science Fiction
+168215,Saboteur: The Duel,1,2,30,8,2014,1072,5.7169,Bluffing
+168232,Project Dreamscape,1,4,30,10,2015,506,5.69144,Science Fiction
+168433,The World of Smog: On Her Majesty's Service,2,4,60,14,2015,1367,6.0627,Science Fiction
+168584,Love Letter: Batman,2,4,20,10,2015,6530,6.93586,Bluffing
+168609,"Artifacts, Inc.",2,4,60,13,2015,3376,6.42384,Economic
+168680,The Werewolves of Miller's Hollow: The Pact,9,47,40,10,2014,421,5.72148,Bluffing
+168770,Epic PVP: Fantasy,2,4,20,10,2015,1103,5.81191,Fighting
+168839,Die Kutschfahrt zur Teufelsburg,3,10,30,12,2006,1187,5.84079,Bluffing
+168998,Marvel Dice Masters: Age of Ultron,2,2,60,14,2015,2484,6.46236,Fighting
+169124,Flick 'em Up!,2,10,30,7,2015,7882,6.86263,Fighting
+169147,Letter Tycoon,2,5,30,8,2015,931,6.01663,Economic
+169375,How To Serve Man,2,6,60,10,2016,279,5.6258,Science Fiction
+169416,Pathfinder Adventure Card Game: Wrath of the Righteous – Base Set,1,4,120,13,2015,2015,6.30085,Fighting
+169464,Defenders of the Last Stand,1,5,120,14,2016,776,6.01238,Fighting
+169544,Bright Future,1,5,120,12,2015,243,5.60999,Science Fiction
+169611,Love Letter: The Hobbit – The Battle of the Five Armies,2,4,30,8,2015,2142,6.36525,Bluffing
+169704,Vault Wars,3,5,60,13,2015,1525,6.15404,Bluffing
+169786,Scythe,1,5,115,14,2016,19631,8.08387,Economic
+169786,Scythe,1,5,115,14,2016,19631,8.08387,Fighting
+169786,Scythe,1,5,115,14,2016,19631,8.08387,Science Fiction
+169795,Haithabu,2,4,120,12,2015,318,5.57559,Economic
+170199,Solarius Mission,2,4,150,12,2016,476,5.97976,Economic
+170199,Solarius Mission,2,4,150,12,2016,476,5.97976,Science Fiction
+170216,Blood Rage,2,4,90,14,2015,17811,7.92729,Fighting
+170223,Centauri Saga,1,4,90,12,2016,462,5.64664,Science Fiction
+170225,DRCongo,1,4,120,14,2015,466,5.76654,Economic
+170318,Among the Stars: Revival,2,6,30,12,2015,1468,5.91337,Science Fiction
+170381,Mars Attacks: Ten-Minute Takedown,2,4,10,0,2015,643,5.57596,Science Fiction
+170415,Dungeon of Fortune,2,6,30,8,2015,578,5.59535,Fighting
+170437,The Curse of the Black Dice,2,4,40,14,2015,294,5.67039,Fighting
+170537,Swords and Bagpipes,2,6,45,11,2014,376,5.71398,Bluffing
+170587,Don't Mess with Cthulhu,4,6,30,10,2014,1021,6.01915,Bluffing
+171110,Cosmic Run,1,4,30,8,2015,611,5.89658,Science Fiction
+171131,Captain Sonar,2,8,60,14,2016,5907,7.35621,Fighting
+171226,Starfighter,2,2,30,13,2015,729,5.92297,Science Fiction
+171339,Entropy,2,6,15,12,2015,885,5.75997,Bluffing
+171339,Entropy,2,6,15,12,2015,885,5.75997,Science Fiction
+171499,Cacao,2,4,45,8,2015,5079,6.81469,Economic
+171620,Thieves!,3,6,20,8,2015,295,5.57556,Bluffing
+171623,The Voyages of Marco Polo,2,4,100,12,2015,10212,7.72675,Economic
+171662,Neanderthal,1,3,120,14,2015,1802,6.323,Economic
+171726,Project: ELITE,1,4,30,12,2016,1129,6.29176,Fighting
+171726,Project: ELITE,1,4,30,12,2016,1129,6.29176,Science Fiction
+171835,Posthuman,1,4,120,13,2015,2292,6.03333,Fighting
+171835,Posthuman,1,4,120,13,2015,2292,6.03333,Science Fiction
+171879,Kraftwagen,2,4,75,10,2015,1721,6.54165,Economic
+172047,The Others,2,5,90,14,2016,3726,6.70507,Fighting
+172073,MammuZ,3,7,20,7,2015,443,5.71207,Bluffing
+172235,Schrödinger's Cats,2,6,30,8,2015,382,5.56461,Bluffing
+172287,Champions of Midgard,2,4,90,10,2015,5310,7.18086,Fighting
+172308,Broom Service,2,5,75,10,2015,6068,6.91309,Bluffing
+172362,Kenjin,2,4,30,12,2015,438,5.65412,Bluffing
+172386,Mombasa,2,4,150,12,2015,6708,7.58586,Economic
+172503,Mage Wars Academy,2,2,30,0,2015,2044,6.25637,Fighting
+172540,Dragoon,2,4,60,13,2016,457,5.74996,Fighting
+172557,Pretense,2,12,360,7,2015,847,5.56381,Bluffing
+172584,Among Nobles,3,5,120,14,2015,593,5.90788,Economic
+172596,Monster My Neighbour,3,8,20,8,2015,422,5.61412,Bluffing
+172600,Dungeon Busters,3,5,20,8,2014,713,5.58081,Bluffing
+172737,High Frontier (3rd edition),1,5,0,12,2017,904,5.99528,Science Fiction
+172818,Above and Below,2,4,90,13,2015,8773,7.33986,Economic
+172837,Dead Man's Chest,3,8,30,8,2015,482,5.54603,Bluffing
+172971,Crossing,3,6,0,6,2013,687,5.83183,Bluffing
+173018,Grimslingers,1,6,90,14,2015,1207,5.82761,Science Fiction
+173064,Leaving Earth,1,5,180,0,2015,1763,6.55974,Science Fiction
+173074,Tales & Games: Little Red Riding Hood,1,5,20,7,2015,544,5.59142,Bluffing
+173101,Council of 4,2,4,75,10,2015,926,6.24946,Economic
+173200,Epic Spell Wars of the Battle Wizards: Rumble at Castle Tentakill,2,6,45,15,2015,2458,6.14318,Fighting
+173319,Lost Legacy: Second Chronicle – Vorpal Sword & Whitegold Spire,2,6,10,14,2015,1339,5.92916,Bluffing
+173460,Dark Dealings,1,6,20,12,2016,750,5.76834,Fighting
+173649,King Chocolate,2,5,60,10,2015,268,5.72286,Economic
+173759,Cauldron,2,5,90,11,2015,385,5.68443,Economic
+173805,Lobotomy,1,5,180,14,2017,308,5.63347,Fighting
+173875,Superfight: The Loot Crate Deck,2,10,45,5,2015,802,5.51753,Fighting
+174155,Lignum,2,4,120,12,2015,428,5.90029,Economic
+174182,Force of Will,2,2,0,13,2014,260,5.69317,Fighting
+174226,Arctic Scavengers: Base Game+HQ+Recon,1,5,60,13,2015,2663,6.55817,Bluffing
+174226,Arctic Scavengers: Base Game+HQ+Recon,1,5,60,13,2015,2663,6.55817,Fighting
+174260,Waste Knights,2,4,240,16,2015,414,5.70715,Science Fiction
+174430,Gloomhaven,1,4,150,12,2017,5265,8.11475,Economic
+174430,Gloomhaven,1,4,150,12,2017,5265,8.11475,Fighting
+174458,Baseball Highlights: 2045 – Deluxe Edition,1,4,45,10,2015,747,6.24574,Science Fiction
+174476,10' to Kill,2,4,15,12,2015,1069,5.892,Bluffing
+174614,Apotheca,1,4,0,13,2016,1385,6.02519,Bluffing
+174744,Mogul,3,5,45,13,2015,601,5.91159,Economic
+174785,Mare Nostrum: Empires,3,5,120,14,2016,3514,6.89793,Economic
+174893,TROLL,3,5,30,8,2015,442,5.6667,Bluffing
+175155,Forbidden Stars,2,4,180,14,2015,7150,7.49038,Bluffing
+175155,Forbidden Stars,2,4,180,14,2015,7150,7.49038,Fighting
+175155,Forbidden Stars,2,4,180,14,2015,7150,7.49038,Science Fiction
+175222,Lost Legacy: Third Chronicle – Sacred Grail & Staff of Dragons,2,6,0,14,2015,822,5.79846,Bluffing
+175224,Rumpelstiltskin,2,2,10,14,2015,366,5.55708,Bluffing
+175307,Adventure Time Love Letter,2,4,0,10,2015,2136,6.36204,Bluffing
+175334,The Undercity: An Iron Kingdoms Adventure Board Game,2,4,120,14,2015,541,5.77694,Fighting
+175458,Bad Beets,2,5,15,8,2015,517,5.54714,Bluffing
+175549,Salem,4,12,35,12,2015,1195,5.91025,Bluffing
+175621,Epic Card Game,2,4,40,13,2015,6874,6.2673,Fighting
+175640,Vinhos Deluxe Edition,1,4,135,14,2016,2506,6.85784,Economic
+175861,Meow,2,9,5,8,2015,221,5.40771,Bluffing
+175878,504,2,4,120,12,2015,2523,6.0574,Economic
+175914,Food Chain Magnate,2,5,240,14,2015,6553,7.81262,Economic
+176083,Hit Z Road,1,4,60,12,2016,2005,6.21987,Fighting
+176103,Shogun Big Box,3,5,150,12,2015,819,5.75811,Economic
+176189,Zombicide: Black Plague,1,6,180,10,2015,9240,7.42539,Fighting
+176361,One Night Revolution,3,10,15,14,2015,3186,5.92121,Bluffing
+176361,One Night Revolution,3,10,15,14,2015,3186,5.92121,Science Fiction
+176494,Isle of Skye: From Chieftain to King,2,5,50,8,2015,11299,7.3007,Economic
+176524,Hoplomachus: Origins,1,2,30,12,2015,388,5.80419,Fighting
+176530,Xenon Profiteer,2,4,30,10,2015,783,6.12774,Economic
+176544,Automania,2,4,90,12,2015,1660,6.56946,Economic
+176558,Mafia de Cuba,6,12,20,10,2015,3298,6.27571,Bluffing
+176564,Scoundrel Society,2,5,45,14,2015,368,5.65171,Bluffing
+176734,The Manhattan Project: Energy Empire,1,5,120,13,2016,2314,6.94896,Economic
+176803,Overseers,3,6,45,12,2015,911,5.90612,Bluffing
+176817,Assassinorum: Execution Force,1,4,0,12,2015,633,5.71482,Science Fiction
+176920,Mission: Red Planet (Second Edition),2,6,90,14,2015,6348,7.24562,Science Fiction
+176963,Dadaocheng,1,4,45,10,2015,214,5.67255,Economic
+176980,Helionox: The Last Sunset,1,4,60,13,2015,465,5.73728,Science Fiction
+177147,Survive: Space Attack!,2,4,60,8,2015,878,5.90003,Science Fiction
+177210,Eight Epics,1,8,60,10,2015,646,5.64217,Fighting
+177352,Carson City: Big Box,2,6,180,12,2015,2065,6.72467,Economic
+177354,Frostgrave,2,8,120,12,2015,717,5.9749,Fighting
+177542,Shuffle Heroes,2,2,30,10,2015,254,5.62283,Fighting
+177590,13 Days: The Cuban Missile Crisis,2,2,45,10,2016,2129,6.65565,Bluffing
+177639,Raptor,2,2,25,9,2015,4099,6.92419,Fighting
+177736,A Feast for Odin,1,4,120,12,2016,4856,7.67735,Economic
+177802,Smash Up: It's Your Fault!,2,2,60,14,2016,3279,6.50653,Science Fiction
+177815,Burger Boss,3,5,90,8,2015,222,5.60824,Bluffing
+177875,The Last Spike,2,6,60,10,2015,375,5.80687,Economic
+177939,Marvel Dice Masters: The Amazing Spider-Man,2,2,60,14,2015,1156,6.09428,Fighting
+178007,Apocalypse Chaos,1,4,60,13,2015,511,5.70198,Science Fiction
+178044,Small Star Empires,2,4,30,13,2016,340,5.75334,Science Fiction
+178591,Lunarchitects,1,5,60,13,2016,529,5.9025,Science Fiction
+178835,Bruti,2,4,50,14,2015,262,5.56544,Fighting
+179172,Unfair,2,5,125,14,2017,1756,6.30481,Economic
+179182,Dojo Kun,1,4,90,13,2015,485,6.02451,Fighting
+179350,Bretagne,2,4,120,14,2015,536,5.82805,Economic
+179460,Stronghold (2nd edition),2,2,90,10,2016,1809,6.39662,Fighting
+179803,Arcadia Quest: Inferno,2,4,120,13,2017,2754,6.37583,Fighting
+179835,Stellar Conflict,2,4,10,10,2015,1022,5.89638,Fighting
+179835,Stellar Conflict,2,4,10,10,2015,1022,5.89638,Science Fiction
+179929,JurassAttack!,2,2,15,8,2015,295,5.60647,Bluffing
+179929,JurassAttack!,2,2,15,8,2015,295,5.60647,Fighting
+180345,Zena 1814,2,5,90,12,2015,162,5.63436,Economic
+180543,Exceed: Red Horizon – Reese & Heidi vs. Vincent & Nehtali,2,2,30,0,2016,308,5.81082,Fighting
+180592,Steam Time,2,4,90,12,2015,1357,6.31353,Economic
+180593,The Bloody Inn,1,4,60,14,2015,4249,6.61547,Economic
+180611,Evil Genius: Deathray,2,6,60,8,2015,143,5.38108,Economic
+180611,Evil Genius: Deathray,2,6,60,8,2015,143,5.38108,Science Fiction
+180771,Teenage Mutant Ninja Turtles: Shadows of the Past,2,5,90,14,2016,1501,6.1784,Fighting
+180785,Mighty Monsters,3,6,35,8,2016,406,5.56224,Fighting
+180852,Tiny Epic Western,1,4,45,14,2016,5995,6.38566,Bluffing
+180899,Ponzi Scheme,3,5,90,12,2015,975,6.32689,Economic
+180956,One Night Ultimate Vampire,3,10,10,8,2015,2785,6.20941,Bluffing
+181290,KUMO Hogosha,2,4,30,8,2015,358,5.72711,Fighting
+181370,Mint Tin Mini Apocalypse,2,2,10,10,2015,605,5.68964,Science Fiction
+181687,The Pursuit of Happiness,1,4,90,12,2015,2643,6.59996,Economic
+181796,The Prodigals Club,2,5,100,14,2015,2151,6.4929,Economic
+182028,Through the Ages: A New Story of Civilization,2,4,240,14,2015,9337,8.30554,Economic
+182120,Histrio,2,5,40,10,2016,556,5.76012,Bluffing
+182134,Evolution: Climate,2,6,75,12,2016,3997,6.95778,Fighting
+182218,Hoax (second edition),3,6,20,14,2016,868,5.67628,Bluffing
+182631,Star Realms: Colony Wars,2,2,20,12,2015,5168,7.09033,Science Fiction
+182770,DC Comics Dice Masters: World's Finest,2,2,60,14,2016,625,5.91022,Fighting
+182874,Grand Austria Hotel,2,4,120,12,2015,4918,7.30353,Economic
+183308,1844/1854,3,7,240,12,2016,576,5.81882,Economic
+183394,Viticulture Essential Edition,1,6,90,13,2015,7934,7.75576,Economic
+183571,Deep Space D-6,1,1,30,0,2015,1222,6.14885,Science Fiction
+183572,Dungeons & Dragons Dice Masters: Faerûn Under Siege,2,2,60,14,2016,713,5.96466,Fighting
+183840,Oh My Goods!,2,4,30,10,2015,5244,6.56062,Economic
+184459,Ave Roma,2,5,120,12,2016,789,6.0484,Economic
+184491,Spaceteam,3,6,5,10,2015,983,5.86631,Science Fiction
+184522,Dead Last,6,12,90,14,2016,1488,5.98475,Bluffing
+184919,Greedy Greedy Goblins,2,4,35,14,2016,498,5.70277,Bluffing
+184919,Greedy Greedy Goblins,2,4,35,14,2016,498,5.70277,Economic
+185276,Keep,2,5,20,0,2015,483,5.61818,Economic
+185343,Anachrony,1,4,120,15,2017,3085,7.09219,Economic
+185343,Anachrony,1,4,120,15,2017,3085,7.09219,Science Fiction
+185374,Loot N Run,2,6,30,8,2016,433,5.73285,Bluffing
+186567,Baseball Highlights: 2045 – Super Deluxe Edition,1,4,60,10,2015,744,6.12172,Science Fiction
+186659,Tiny Epic Galaxies Deluxe Edition,1,5,30,14,2015,1790,6.27668,Science Fiction
+186721,Healthy Heart Hospital,1,5,90,13,2015,539,5.86212,Economic
+187353,Marvel Dice Masters: Civil War,2,2,0,14,2016,734,5.91948,Fighting
+187679,The Horus Heresy: Betrayal at Calth,2,2,0,0,2015,543,5.73198,Science Fiction
+187687,Pathfinder Adventure Card Game: Mummy's Mask – Base Set,1,4,120,13,2016,448,5.79787,Fighting
+187988,Pyramid Arcade,1,10,180,5,2016,793,6.05902,Science Fiction
+188196,Ravenous River,2,7,20,14,2016,320,5.58494,Bluffing
+188834,Secret Hitler,5,10,45,13,2016,5374,7.05989,Bluffing
+188991,Alienation,2,4,30,8,2016,252,5.72042,Science Fiction
+189192,Mi Tierra: New Era,2,6,120,12,2016,605,5.76363,Economic
+189222,Saltlands,1,6,120,12,2016,391,5.68287,Fighting
+189222,Saltlands,1,6,120,12,2016,391,5.68287,Science Fiction
+189351,Virus,1,6,120,14,2016,442,5.6469,Science Fiction
+189660,XenoShyft: Dreadmire,1,4,60,14,2017,1242,5.95908,Science Fiction
+189848,Munchkin Marvel,3,6,120,10,2016,1125,5.82893,Fighting
+191038,West of Africa,2,5,90,10,2016,299,5.65501,Economic
+191189,Aeon's End,1,4,60,14,2016,2343,6.83677,Science Fiction
+191438,North American Railways,3,5,90,12,2016,263,5.70579,Economic
+191579,Teenage Mutant Ninja Turtles Dice Masters,2,4,60,14,2016,493,5.75449,Fighting
+191932,Exposed,2,6,45,12,2016,356,5.63768,Bluffing
+191963,Thunder & Lightning,2,2,40,13,2016,1027,6.05592,Bluffing
+191986,Rhodes,2,5,90,10,2016,230,5.6928,Economic
+192120,Meeple War,2,4,60,10,2016,560,5.81171,Fighting
+192240,Control,2,4,15,10,2016,745,5.80884,Science Fiction
+192297,America,2,6,45,10,2016,484,5.84899,Bluffing
+192457,Cry Havoc,2,4,120,10,2016,4804,7.03189,Fighting
+192457,Cry Havoc,2,4,120,10,2016,4804,7.03189,Science Fiction
+192458,51st State: Master Set,1,4,90,14,2016,3094,7.01138,Economic
+192458,51st State: Master Set,1,4,90,14,2016,3094,7.01138,Science Fiction
+192638,Multiuniversum,1,5,40,12,2016,1085,6.02276,Science Fiction
+192673,Martians: A Story of Civilization,1,4,150,14,2016,1382,5.78224,Economic
+192673,Martians: A Story of Civilization,1,4,150,14,2016,1382,5.78224,Science Fiction
+192701,Final Touch,2,4,30,8,2016,229,5.6117,Bluffing
+192934,Colony,1,4,60,13,2016,1270,6.05895,Science Fiction
+193037,Dead of Winter: The Long Night,2,5,120,14,2016,6479,7.22674,Bluffing
+193037,Dead of Winter: The Long Night,2,5,120,14,2016,6479,7.22674,Science Fiction
+193308,Spyfall 2,3,12,0,13,2017,899,5.8832700000000004,Bluffing
+193322,Master of Orion: The Board Game,2,4,60,12,2016,193,5.71814,Economic
+193322,Master of Orion: The Board Game,2,4,60,12,2016,193,5.71814,Science Fiction
+193840,The Dragon & Flagon,2,8,60,10,2016,1213,5.96297,Fighting
+193927,Vanuatu (second edition),2,5,90,12,2016,846,6.02592,Economic
+194081,Deathwatch: Overkill,2,2,0,0,2016,471,5.64384,Science Fiction
+194196,Kharnage,2,4,30,7,2016,596,5.67846,Fighting
+194879,Not Alone,2,7,45,10,2016,2341,6.51917,Bluffing
+194879,Not Alone,2,7,45,10,2016,2341,6.51917,Science Fiction
+195043,Welcome Back to the Dungeon,2,4,30,10,2016,1881,6.13215,Bluffing
+195043,Welcome Back to the Dungeon,2,4,30,10,2016,1881,6.13215,Fighting
+195137,Catacombs (third edition),2,5,90,14,2015,1731,6.51978,Fighting
+195314,Herbaceous,1,4,20,8,2017,1293,6.15627,Bluffing
+195503,City of Iron: Second Edition,2,4,120,13,2016,1273,6.18562,Economic
+195547,LOAD: League of Ancient Defenders,2,6,180,13,2016,266,5.52091,Fighting
+196326,Love Letter Premium,2,8,30,8,2016,1688,6.41576,Bluffing
+196340,Yokohama,2,4,90,12,2016,1674,6.38674,Economic
+197061,Fantahzee: Hordes & Heroes,2,5,0,14,2016,255,5.6065,Fighting
+197439,The Fog of War,2,2,120,10,2016,362,5.70688,Bluffing
+197443,Fugitive,2,2,20,10,2017,2131,6.20715,Bluffing
+197572,Warhammer Quest: Silver Tower,2,4,120,14,2016,1517,6.18643,Fighting
+198190,Kepler-3042,1,4,90,14,2016,380,5.88659,Science Fiction
+198994,Hero Realms,1,4,30,12,2016,4213,6.96705,Fighting
+200077,Mint Works,1,4,20,13,2017,2722,6.47163,Economic
+200454,Planetarium,1,4,45,10,2017,770,5.85065,Science Fiction
+200680,Agricola (revised edition),1,4,120,12,2016,1863,6.87661,Economic
+202077,Deep Madness,1,6,120,0,2017,172,5.4891,Fighting
+202077,Deep Madness,1,6,120,0,2017,172,5.4891,Science Fiction
+202408,Adrenaline,3,5,60,12,2016,2681,6.72553,Fighting
+202408,Adrenaline,3,5,60,12,2016,2681,6.72553,Science Fiction
+203270,Gorechosen,2,4,75,0,2016,372,5.71816,Fighting
+203780,Power Grid: The Card Game,2,6,60,12,2016,1726,6.11732,Economic
+204184,Risk Europe,2,4,180,14,2015,715,5.90142,Economic
+204184,Risk Europe,2,4,180,14,2015,715,5.90142,Fighting
+205046,Capital Lux,2,4,0,10,2016,862,6.07428,Bluffing
+205046,Capital Lux,2,4,0,10,2016,862,6.07428,Science Fiction
+205059,Mansions of Madness: Second Edition,1,5,180,14,2016,10839,7.85123,Fighting
+205398,Citadels (2016 edition),2,8,60,10,2016,1206,6.1383,Bluffing
+205498,Round House,2,5,90,10,2016,327,5.81526,Economic
+205507,Key to the City – London,2,6,120,14,2016,1272,6.15071,Economic
+205597,Jump Drive,2,4,30,13,2017,824,6.05771,Science Fiction
+205716,New Angeles,4,6,240,14,2016,1244,6.29128,Bluffing
+205716,New Angeles,4,6,240,14,2016,1244,6.29128,Science Fiction
+206051,Insider,4,8,15,9,2016,720,6.07343,Bluffing
+206754,Burke's Gambit,4,8,20,14,2016,330,5.67314,Bluffing
+206754,Burke's Gambit,4,8,20,14,2016,330,5.67314,Science Fiction
+206803,Capital,2,4,60,10,2016,478,6.07155,Economic
+207338,Dungeon Rush,2,5,19,8,2016,118,5.6362,Fighting
+207830,5-Minute Dungeon,2,5,30,8,2017,1111,6.14524,Fighting
+209166,Meduris: Der Ruf der Götter,2,4,75,10,2016,204,5.6175,Economic
+212445,Blood Bowl (2016 edition),2,2,120,12,2016,1751,6.57588,Fighting
+216201,Robo Rally (2016),2,6,120,12,2016,963,5.9843,Science Fiction
