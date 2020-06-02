@@ -12,16 +12,26 @@ library(tidyverse)
 ## Задание 5.1.1
 
 ```{r}
+movies <- read_csv('https://raw.githubusercontent.com/r-classes/ds4dh-hw5-akryukov39/master/data/MovieLens_films.csv?token=ANEYUWH2BYJDOX7P4CZRJQK63T4LC')
+
+movies %>% 
+  mutate(prediction = predict(fit)) %>% 
+  ggplot(aes(year, mean_rating, color = genres))+
+  geom_point() +
+  geom_smooth(method = "lm") +
+  labs(caption = "data from MovieLens")
 ```
 
 ## Задание 5.1.2
 
 ```{r}
+fit <- lm(mean_rating ~ year+ genres, data = movies)
+summary(fit)
 ```
 
-mean rating (comedy) = ... * year
+mean rating (comedy) = 9.7547 - 0.0031 * year
 ...
-
+  
 Укажите наибольший свободный член
 
 ...
@@ -30,6 +40,7 @@ mean rating (comedy) = ... * year
 
 ```{r}
 library(ggeffects)
+plot(ggpredict(fit, terms = c("year","genres")))
 ```
 
 ## Задание 5.1.4
